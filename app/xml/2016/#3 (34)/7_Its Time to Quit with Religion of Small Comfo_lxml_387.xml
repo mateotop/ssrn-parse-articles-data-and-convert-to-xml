@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>“It’s Time to Quit with Religion of Small Comforts!”: Body and Text in the Extreme Way of the Cross</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Siekierski</surname>
+            <given-names>Konrad</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2016</copyright-year>
+      </permissions>
+      <abstract>
+        <b>This paper examines a new religious initiative of the Catholic Church in Poland, known as the Extreme Way of the Cross (Ekstremalna Droga Krzyżowa). Launched in 2009 by Fr. Jacek Stryczek, one of the most recognizable Catholic priests in the country, the EDK has been announced as a “new form of spirituality”. Usually taking place a week before Easter, it is based on a few clear-cut principles: participants are to walk during the night in silence, individually or in small groups, along routes of 30 to 100 km, mostly through forests and fields. On the road, fourteen Stations of the Cross are designated where participants pray and read texts contemplating the Passion of the Christ and its relevance for Christians today. Started as a small-scale event, in just few years EDK has become a nation-wide phenomenon, with more than 200 routes and 26000 registered participants in 2016. The paper examines this apparent success of EDK in the context of (post)modern culture with its focus on bodily movement and embodied experience. In particular, the author shows how EDK draws on this modern bias to promote a specific set of religiously motivated values, which combines subordination to the will of God with worldly activism and achievement motivation.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Catholic church</kwd>
+        <kwd>Poland</kwd>
+        <kwd>religion</kwd>
+        <kwd>body</kwd>
+        <kwd>movement</kwd>
+        <kwd>experience</kwd>
+        <kwd>testimony.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

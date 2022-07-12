@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Post-Christian or Post-Atheistic Society? Some Characteristics of the Russian Regime of Secularity</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Malakhov</surname>
+            <given-names>Vladimir</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Letnyakov</surname>
+            <given-names>Denis</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2021</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The authors argue that the specificity of the Russian case of secularity is generally underestimated. This leads to two negative consequences. First, it leads researchers to considering the regimes of secularity in Eastern Europe as variations of the “Soviet model,” which is false. Second, it entails inaccuracies in the analysis of the regime of secularity that has developed in post‑Soviet Russia that the authors propose to describe as “post‑atheistic.” The special Russian case implied the destruction of the very mechanism of religious and cultural transmission during the period of communist rule. This is where other features of the post‑atheistic society stem from: a relatively low relevance of religious symbols and narratives for the social fabric; the involvement of religious agency in the projects of nation‑building and, there‑ fore, a predominantly ideological, rather than religious, motivation of the subjects of such agency; a top‑down, rather than bottom‑up, dynamic of the post‑Soviet return of religion to the public sphere; the lack of a broad public support of the state activities in this field; wide‑ spread polarization of views on the role of public religion in modern society — either linking religion to cultural backwardness, or the total rejection of modernity and secular culture.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>secularization</kwd>
+        <kwd>secularism</kwd>
+        <kwd>secularity</kwd>
+        <kwd>state-church relations</kwd>
+        <kwd>post-Christian society</kwd>
+        <kwd>post-atheistic society.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

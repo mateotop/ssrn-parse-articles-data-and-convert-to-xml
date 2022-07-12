@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2012/#1 (30)/errors/15_Bellah R N Religion in Human Evolution Cambri_lxml_641.xml 
+Год: 2012 
+Выпуск №: #1 (30)
+Статья в выпуске №: 15
+Статья в общем подсчете№: 641 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Article Title']: Bellah R. N. Religion in Human Evolution. Cambridge (Mass.), London: The Belknap Press of Harvard University Press, 2011
+ ['Topic']: 
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/37e/Religion in Human Evolution_0.pdf'}
+ ['Pages']: -
+ ['Year']: 2012
+ ['Section']: Book reviews

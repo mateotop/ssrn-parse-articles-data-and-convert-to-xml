@@ -1,0 +1,26 @@
+Что-то пошло не так.xml/2021/#1 (39)/errors/13_Annex 3 Islamist Radicalism Facing and Fighti_lxml_30.xml 
+Год: 2021 
+Выпуск №: #1 (39)
+Статья в выпуске №: 13
+Статья в общем подсчете№: 30 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ 
+
+Что храниться в этой дате
+
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/b48/8_3_app3_1_2021.pdf'}
+ ['Article Title']: Annex 3. Islamist Radicalism: Facing and Fighting It Together. Summary of the Report of the French Senate Commission of Inquiry into the Response of the Authorities to the Development of Islamist Radicalisation and the Fight against It
+ ['DOI']: 
+ ['Topic']: 
+ ['Year']: 2021
+ ['Author']: 
+ ['KeyWords']: 
+ ['Section']: France and the new politics towards islam
+ ['Abstract']: N/A
+ ['Pages']: 205 - 211

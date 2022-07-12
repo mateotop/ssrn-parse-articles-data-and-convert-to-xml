@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2016/#1 (34)/errors/18_Yelensky V 2013 The Great Return Religion in _lxml_361.xml 
+Год: 2016 
+Выпуск №: #1 (34)
+Статья в выпуске №: 18
+Статья в общем подсчете№: 361 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/e11/GRC_1-2016_Готово.416-419.pdf'}
+ ['Topic']: 
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Year']: 2016
+ ['Pages']: -
+ ['Article Title']: Yelensky, V. (2013) The Great Return: Religion in Global Politics and International Relations of Late 20th — Early 21st Century. L’vіv: Vid-vo UKU, 2013. — 504 s. (In Ukrainian)
+ ['Section']: Book reviews

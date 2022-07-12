@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Theistic Evolution and Darwinism: from War to Peace</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khramov</surname>
+            <given-names>Alexander</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2015</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2015</copyright-year>
+      </permissions>
+      <abstract>
+        <b>Today, theistic evolution (TE), the idea that God created living world by means of the evolutionary process, is shared by the majority of those who seek to reconcile Christian religion with the findings of modern science. A history of this idea, the subject of the present study, can be divided into two periods. The first period, which lasted from 1870s to 1940s, coincided with so-called eclipse of Darwinism. During that time the major proponents of TE doubted natural selection as the main force guiding evolution. Instead, they thought that the assumption of Divine guidance is needed in order to explain the evolutionary progress toward complex life forms. The second period in the history of TE began in the 1950s, after the modern evolutionary synthesis was established. The renaissance of Darwinism in biology left no room for teleological approach, so the new generation of TE supporters was forced to see God as restrained by the rule of chance or, alternatively, as acting through chance events. Despite of these changes, the religious content of TE remained the same, namely, the accent on Divine immanence and skeptical attitude toward the traditional doctrine regarding the fall and redemption. The author hypothesizes that the way for TE was paved by the Augustinian tradition of Western Christianity.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>science and religion</kwd>
+        <kwd>Darwinism</kwd>
+        <kwd>original sin</kwd>
+        <kwd>natural selection</kwd>
+        <kwd>Karl Rahner</kwd>
+        <kwd>natural theology</kwd>
+        <kwd>Pierre Teilhard de Chardin.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

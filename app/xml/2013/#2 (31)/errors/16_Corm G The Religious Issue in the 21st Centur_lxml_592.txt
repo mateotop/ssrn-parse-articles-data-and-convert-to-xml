@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2013/#2 (31)/errors/16_Corm G The Religious Issue in the 21st Centur_lxml_592.xml 
+Год: 2013 
+Выпуск №: #2 (31)
+Статья в выпуске №: 16
+Статья в общем подсчете№: 592 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/734/3.pdf'}
+ ['Year']: 2013
+ ['KeyWords']: 
+ ['Article Title']: Corm G. The Religious Issue in the 21st Century. Geopolitics and the Crisis of Postmodernity. M.: Institut obshhegumanitarnyh issledovanij, 2012 (in Russian, translated from French)
+ ['Abstract']: N/A
+ ['Pages']: -
+ ['Section']: Book reviews

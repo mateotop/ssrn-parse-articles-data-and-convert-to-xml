@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Akadak and Ldzaa-nykh: Towards a History of Hybrid Cults in Abkhazia</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kusnetsov</surname>
+            <given-names>Igor</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kusnetsova</surname>
+            <given-names>Rita</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2016</copyright-year>
+      </permissions>
+      <abstract>
+        <b>Several historical reports, along with our own fieldwork data, cover a long period from the early 17th century until the present time, helping to reconstruct how the sacred site Ldzaa-nykh, which had been moving between and around Pitsunda Orthodox temple and Lidzava village, gradually took its present location; how families of priests succeeded each other, evolving into a kind of nativist leaders; and how a cult itself transformed into what it is now. Akadak as Lidzava annual praying ritual has been one of the last festivities in the whole Abkhazia, which continued to integrate not a few families but all the villagers. For centuries the lands of Pitsunda peninsula attracted new flows of immigrants, the protection of which was provided by the temple, and later the rural shrine spun off from it. The irony of history is that the melting pot that turned hundreds of strangers into “Abkhazians”, was a hybrid, non-indigenous cult. Akadak praying more and more resembles a ceremony to integrate local community, helping to bring the current project of Abkhaz nationalism to life.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Western Caucasus</kwd>
+        <kwd>hybridity</kwd>
+        <kwd>nativism</kwd>
+        <kwd>ethnography</kwd>
+        <kwd>Abkhazia</kwd>
+        <kwd>Georgia</kwd>
+        <kwd>Pitsunda temple</kwd>
+        <kwd>Orthodox Christianity</kwd>
+        <kwd>neo-paganism.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

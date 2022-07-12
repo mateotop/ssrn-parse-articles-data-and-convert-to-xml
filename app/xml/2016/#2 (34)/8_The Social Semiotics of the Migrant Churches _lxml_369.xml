@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Social Semiotics of the “Migrant” Churches in Armenia</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Antonyan</surname>
+            <given-names>Yulia</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2016</copyright-year>
+      </permissions>
+      <abstract>
+        <b>Based on a field study of the Gegharkunik region of Armenia, the research addresses the process of building new churches in the context of contemporary social and economic life of the Armenian village. The main characters of the research are initiators and sponsors of the church construction, represented by several social types and, in particular, the type of an affluent emigrant, who thus wants to be represented at their home village with a new status. Building a church usually becomes a social project, through which they construct a positive image of themselves, strengthen the personal and family influence among local authorities and business people, thus becoming a part of the local elites, while being outside physically. Each new church has a “legend” which clarifies motives of the donator referring to such values as his piety, mystical connection to the saints, deference to the memory of ancestors, and compassion to people’s needs. The main places of cult in villages of the region have always been family shrines, usually constructed in a form of a small chapel and devoted to a saint-protector. Newly-constructed church, therefore, eventually takes on functions of such a family shrine, regardless its sizes.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>church</kwd>
+        <kwd>Armenian Apostolic Church</kwd>
+        <kwd>church construction</kwd>
+        <kwd>charity</kwd>
+        <kwd>gift exchange</kwd>
+        <kwd>cult of the saints</kwd>
+        <kwd>migrants</kwd>
+        <kwd>elite</kwd>
+        <kwd>power.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

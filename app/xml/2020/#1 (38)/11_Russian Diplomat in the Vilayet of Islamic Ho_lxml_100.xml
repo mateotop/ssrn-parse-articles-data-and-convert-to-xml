@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Russian Diplomat in the Vilayet of Islamic Holy Sites in the Beginning of the Twentieth Century</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Naumkin</surname>
+            <given-names>Vitaly</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2020</copyright-year>
+      </permissions>
+      <abstract>
+        <b>This article endeavors to detect the goals, main tracks and priorities of the Russian diplomacy in a vilayet of the Ottoman Empire — Hejaz, which hosted major Islamic sanctuaries. Religion and politics were tightly interwoven in Russia’s diplomatic activities there. Our analysis is made at the micro level, through the official correspondence of a Russian diplomat, Michail Nikolsky, who in the early 20th century served as a secretary of the Russian Imperial Consulate in Jeddah, Hejaz. The article also seeks to examine the influence of the human factor, sometimes wrongfully ignored, but always retaining a powerful presence in real politics. The recent developments indicate that even in the hyper-globalization era, despite the triumph of systemic institutions, the personification of policy remains a phenomenon of a planetary magnitude. The approach followed by the author in this article is akin, to a certain extent, to some anthropological models of historical research and can be also categorized as a kind of political anthropology. The tasks and goals of the Russian diplomacy are determined as a result of close scrutiny of the perused archival documents from the Foreign Policy Archive of the Russian Empire of the period of the First Russian Revolution of 1905–1907. Many of these documents are unedited. They tend to evoke the sense of déjà vu reminding the Soviet/Russian foreign policy efforts undertaken in Hejaz/ Saudi Arabia during the Soviet and post-Soviet time.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Hejaz</kwd>
+        <kwd>Russian Consulate</kwd>
+        <kwd>Islamic sanctuaries</kwd>
+        <kwd>pilgrimage</kwd>
+        <kwd>Vali</kwd>
+        <kwd>Sharif</kwd>
+        <kwd>tribes..</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

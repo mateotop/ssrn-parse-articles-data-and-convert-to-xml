@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2012/#1 (30)/errors/14_AAgadjanian and KRousselet eds Parish and Com_lxml_640.xml 
+Год: 2012 
+Выпуск №: #1 (30)
+Статья в выпуске №: 14
+Статья в общем подсчете№: 640 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/0e1/Parish and Community in Today’s Orthodox Christianity- Grassroots of Russian Religiosity_1.pdf'}
+ ['Article Title']: A.Agadjanian and K.Rousselet, eds. Parish and Community in Today’s Orthodox Christianity: Grassroots of Russian Religiosity. Moscow: Ves′ Mir, 2011 (in Russian)
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Pages']: -
+ ['Year']: 2012
+ ['Section']: Book reviews

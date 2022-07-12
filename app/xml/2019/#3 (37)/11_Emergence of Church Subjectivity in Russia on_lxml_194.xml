@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Emergence of “Church Subjectivity” in Russia on the Example of Normative Texts about Orthodox Clergy (Late 18th — Mid 19th Century)</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lyutko</surname>
+            <given-names>Eugene</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2019</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2019</copyright-year>
+      </permissions>
+      <abstract>
+        <b>This article describes the changes in understanding the role and identity of the Russian Orthodox priesthood during late 18th — mid-19th centuries. The analysis of normative texts defining the image of parish priests reveals the gradual differentiation of the social contexts. While at the start of the period the priest acts within a more or less homogenous society, during the first decades of the 19th century this context is gradually reconsidered within binary opposition of church vs. civil (secular). The Church emerges within the priestly narratives as a category that organizes the social space (in/outside the Church) and is often described by such strong epithets as “persecuted”, “militant” etc. The revealed change may be interpreted within the theory of confessionalization: the 19th century was indeed a time when modern confessional identities emerged across Europe. The category of “church,” “churchiness”, “churchy,” etc. became crucial for self-identification of confessional societies whose hierarchies sought to create the symbolic demarcation of confessional spaces.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>pastoral theology</kwd>
+        <kwd>subject</kwd>
+        <kwd>Church-state relationship</kwd>
+        <kwd>confessionalization</kwd>
+        <kwd>parish clergy</kwd>
+        <kwd>Russian Orthodox Church</kwd>
+        <kwd>theology of the priesthood.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

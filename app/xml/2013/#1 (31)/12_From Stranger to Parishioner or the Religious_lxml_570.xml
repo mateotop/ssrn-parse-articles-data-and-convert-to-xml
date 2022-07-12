@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From Stranger to Parishioner, or the Religious Identity of Aged People from Ivanovo Region</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rogozin</surname>
+            <given-names>Dmitry</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2013</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2013</copyright-year>
+      </permissions>
+      <abstract>
+        <b>This article deals with the concept of religious identity through the analysis of two criteria: self-identification (Do you consider yourself a believer?) and regularity of Church attendance (Do you visit Church, and if yes, then how often?). This analysis is used to construct the scale of religious path from irreligion to faith. The data of the phone survey is presented through the methodology of mix research, when the statistical data is supplemented with the detailed analysis of transcripts and peculiarities of communication between questioner and respondent.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>analysis of the standardized interview</kwd>
+        <kwd>attachment to the Church</kwd>
+        <kwd>Metropolitanate of Ivanovo</kwd>
+        <kwd>index of religious mobility</kwd>
+        <kwd>index of religious indifference</kwd>
+        <kwd>aged people</kwd>
+        <kwd>religious identity</kwd>
+        <kwd>sociology of religion</kwd>
+        <kwd>phone survey.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

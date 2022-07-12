@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Struggling for Equal Burial: Funeral Administration in Early Soviet Union</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sokolova</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2019</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2019</copyright-year>
+      </permissions>
+      <abstract>
+        <b>Bolsheviks’ program of separation of Church from State involved a bunch of issues connected to the abolishment of social and confessional inequality. Funeral reform initiated by the government decree on funerals and cemeteries (1918) was a part of this program. The decree stated the abolishment of funeral classes, deprived Church from all funeral incomes and stated “equal burial for everyone.” The paper, based on the materials from State Archive of Moscow Region (GAMO), reflects the results of the atheist funeral reform in Moscow in 1920–1930s. The decree of 1918 destroyed the funeral infrastructure based upon the principles of confessional “moral economy”. The subsequent retrieval to the pre‑Soviet frames of funeral infrastructure became the only way for it to recover from crisis.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>funerals</kwd>
+        <kwd>secularization</kwd>
+        <kwd>classes</kwd>
+        <kwd>social estates</kwd>
+        <kwd>moral economy.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

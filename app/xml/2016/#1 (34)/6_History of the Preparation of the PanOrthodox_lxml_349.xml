@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>History of the Preparation of the Pan-Orthodox Council</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gusev</surname>
+            <given-names>Andrey</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2016</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The present article addresses the history of the preparations of the Pan-Orthodox Council since 1923, when the Pan-Orthodox Conference was held in Istanbul, until January 2016, when the Synaxis of the Primates was held in Chambésy, Switzerland. This article describes distinctive features and main events of the pre-conciliar process at its different stages as well as retraces the formation of the Council’s agenda and the evolution of its preparatory procedure. The article demonstrates that relations between the local churches, especially those of the Ecumenical and Moscow Patriarchates, have affected the character and intensity of the pre-conciliar process. The author concludes that the preparatory methodology developed in the second half of the 20th century became inefficient in the early 21st century. The reconsideration of the accepted procedure made it possible for the churches to agree upon convening the Council in 2016. Yet we can presume that another Council will be necessary to consider a few items removed from the agenda of the upcoming Council.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Pan-Orthodox Council</kwd>
+        <kwd>Holy and Great Council of the Orthodox Church</kwd>
+        <kwd>history of the pre-conciliar process</kwd>
+        <kwd>inter-Orthodox relations</kwd>
+        <kwd>Patriarchate of Constantinople</kwd>
+        <kwd>Moscow Patriarchate.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

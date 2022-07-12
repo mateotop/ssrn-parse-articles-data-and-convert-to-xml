@@ -31,7 +31,7 @@ driver.get("https://religion.ranepa.ru/home/archive/2022/620365/")
 sleep(5)
 turn_english = [i for i in driver.find_elements(By.CLASS_NAME, 'carte__language') if i.text == 'En'][0]
 turn_english.click()
-driver.save_screenshot('screenshot_5sec.png')
+# driver.save_screenshot('screenshot_5sec.png')
 
 # Получаем html код из Selenium и адаптируем под BS4. Чтобы если что в Google Colab было проще залить
 bigSoup = BeautifulSoup(driver.page_source, 'lxml')
@@ -258,7 +258,7 @@ def generate_taplate_for_xml_file(article_info_dict_1: dict) -> None:
     subj_group_article_type = ET.SubElement(
         article_categories, 'subj-group', subj_group_type="article_type")  # [1]
     subject = ET.SubElement(subj_group_article_type, 'subject')
-    subject.text = 'Research Letter'  # Что сюда вставиьт ?
+    subject.text = 'Research article'  # Что сюда вставиьт ?
 
     subj_group_subject_areas = ET.SubElement(
         article_categories, 'subj-group', subj_group_type="subject_areas")  # [1]
@@ -380,10 +380,11 @@ def generate_taplate_for_xml_file(article_info_dict_1: dict) -> None:
 
     permission_xml = ET.SubElement(article_meta, 'permissions')
     copyright_statement = ET.SubElement(permission_xml, 'copyright-statement')
-    copyright_statement.text = ''  # Где брать копирайт выражение? Оно есть у ГРЦ?
+    # Где брать копирайт выражение? Оно есть у ГРЦ?
+    copyright_statement.text = 'Russian Presidential Academy of National Economy and Public Administration.'
     copyright_year = ET.SubElement(permission_xml, 'copyright-year')
     # Где брать год для коипарайта? Или указывать 2022, но не уверен, что это законно
-    copyright_year.text = ''
+    copyright_year.text = '© ' + article_info_dict_1['Year']
 
     #Absract
     abstract_xml = ET.SubElement(article_meta, 'abstract')
@@ -478,11 +479,13 @@ def cleanning_and_save_xml_file(article_info_dict_2: dict,
     # path_for_saving_lxml = f'lxml/lxml_{number_of_current_articles_counter}.xml'
 
     filename_1 = f'xml/{year_xmll}/{num_of_issue}/'
+    # name_article_xml = ''.join(re.findall('[A-Za-z0-9]+ \s+', article_info_dict_2['Article Title']))[:30]
+    name_article_xml = ''.join([letter for letter in article_info_dict_2['Article Title'] if letter.isalnum() or letter == ' '])[:45]
 
     if len(article_info_dict_2['Author']) <= 0 and len(article_info_dict_2['Abstract']) <= 3:
 
         filename_erroes = f'xml/{year_xmll}/{num_of_issue}/errors/'
-        path_for_saving_lxml = f'xml/{year_xmll}/{num_of_issue}/errors/{num_of_article}_lxml_{number_of_current_articles_counter}.xml'
+        path_for_saving_lxml = f'xml/{year_xmll}/{num_of_issue}/errors/{num_of_article}_{name_article_xml}_lxml_{number_of_current_articles_counter}.xml'
 
         # Формируем txt файл где пытаемся сказать что не так и дать какую-то отладочную информацию
         dict_that_contains_data_from_article_info = {
@@ -532,7 +535,7 @@ def cleanning_and_save_xml_file(article_info_dict_2: dict,
 
         filedata_erorrs = ' '.join(filedata_erorrs)
 
-        path_for_saving_txt = f'xml/{year_xmll}/{num_of_issue}/errors/{num_of_article}_lxml_{number_of_current_articles_counter}.txt'
+        path_for_saving_txt = f'xml/{year_xmll}/{num_of_issue}/errors/{num_of_article}_{name_article_xml}_lxml_{number_of_current_articles_counter}.txt'
         if not os.path.exists(os.path.dirname(filename_erroes)):
             os.makedirs(filename_erroes)
 
@@ -544,11 +547,10 @@ def cleanning_and_save_xml_file(article_info_dict_2: dict,
     else:
         if not os.path.exists(os.path.dirname(filename_1)):
             os.makedirs(filename_1)
-        path_for_saving_lxml = f'xml/{year_xmll}/{num_of_issue}/{num_of_article}_lxml_{number_of_current_articles_counter}.xml'
+        path_for_saving_lxml = f'xml/{year_xmll}/{num_of_issue}/{num_of_article}_{name_article_xml}_lxml_{number_of_current_articles_counter}.xml'
 
         with open(path_for_saving_lxml, 'w', encoding='UTF-8') as file:
             file.write(filedata)
-    return 'hello saving'
 
 
 base_url = 'https://religion.ranepa.ru/'
@@ -561,6 +563,10 @@ issues_links = {issue.text: base_url + issue['href'] for issue in bigSoup.find_a
 
 
 
+print(f"Привет\n Эта программа помогает собирать и преоброзовывать данные с сайта журнала: Госудраство Религия Церьковь")
+print('Программа создана чтобы собрать и преоброзовать все статьи за все года и все выпуски \n По времени займет примерно 3-5 минут. Возможно быстрее')
+print('Во время работы программы, здесь могут появляться слова None. \nЕсли такое случитсья не переживайте, все хорошго, так и должно быть')
+
 current_iter = 0
 
 for year_text, year_link in archive_all_years.items():
@@ -568,6 +574,7 @@ for year_text, year_link in archive_all_years.items():
     initial_url = year_link
     driver.get(initial_url)
 
+    # Переобределяем элемень BS4 чтобы парсила всегда новую страницу, а не одну и ту же
     bigSoup = BeautifulSoup(driver.page_source, 'lxml')
     issues_links = {issue.text: base_url + issue['href'] for issue in bigSoup.find_all(
         'a', 'archive__subhead-link')if issue.text != 'Download all'}
@@ -588,9 +595,5 @@ for year_text, year_link in archive_all_years.items():
             cleanning_and_save_xml_file(
                 article_info, num_of_article=num_of_article, num_of_issue=text)
             num_of_article += 1
-
-print(f"Привет\n Эта программа помогает собирать и преоброзовывать данные с сайта журнала: Госудраство Религия Церьковь")
-print('Программа создана чтобы собрать и преоброзовать все статьи за все года и все выпуски \n По времени займет примерно 3-5 минут. Возможно быстрее')
-print('Во время работы программы, здесь могут появляться слова None. \nЕсли такое случитсья не переживайте, все хорошго, так и должно быть')
 
 print(f'Все спарсилось, смотритве в папке:\n {os.getcwd() + "/xml"}')

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Patriarchate of Constantinople and the Russian Church before the Revolution</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gerd</surname>
+            <given-names>Lora</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2016</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The article deals with the ideological and political aspects of the relations between the Russian Orthodox Church and the Patriarchate of Constantinople in the end of the 19th and the beginning of the 20th centuries. The Russian imperial idea was strongly influenced by the idea of Orthodox oikumene, first shaped in Byzantium. In the 19th century the idea of translatio imperii was further modified first by the Slavophils, and later by the Russian national ideology under Alexander III. The neo-Byzantinism of the end of the 19th and beginning of the 20th century accepted the idea of the Third Rome and became the basis of Russian policy in the Near East. Support of the Orthodox population of the Balkans and the Near East, a creation of a confederation of Orthodox states under the guidance of Russia, and finally restoration of the Russian Patriarchate, — all these were considered as chains of one line, the restoration of the ideal Christian kingdom. In the Balkans, Russian universalism faced a similar idea of the restoration of the Greek empire, as well as the growing Balkan nationalism. The struggle of the two “great ideas” took place in the frames of the Eastern Question — the rivalry of the great powers for spheres of influence in the Balkans and the Near East. Finally it brought the beginning of the First World War.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Byzantium</kwd>
+        <kwd>Third Rome</kwd>
+        <kwd>Russian church</kwd>
+        <kwd>Patriarchate of Constantinople</kwd>
+        <kwd>Balkans</kwd>
+        <kwd>international relations</kwd>
+        <kwd>nationalism</kwd>
+        <kwd>church policy</kwd>
+        <kwd>Near East</kwd>
+        <kwd>Eastern Question.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

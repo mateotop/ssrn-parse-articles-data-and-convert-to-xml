@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>New Atheistic Approaches in the Cognitive Science of Religion</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Geertz</surname>
+            <given-names>Armin W.</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2013</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2013</copyright-year>
+      </permissions>
+      <abstract>
+        <b>This article is devoted to critical evaluation of ideas of so-called «new atheists». Two persons and two works are considered: Daniel Dennet and his «Breaking the Spell» and Richard Dawkins and his «The God Delusion». The author is especially interested in scrutinizing their theories of the essence, origin and evolution of religion, in particular, Dawkins’ theory of memes. After juxtaposing works of «new atheists» with works of other scientists working in the same field, one makes a conclusion that both D. Dennet and R. Dawkins should pay more attention to some outstanding results of cognitive science of religion. The author concludes that due to the negligence of many important issues — f. e. the evolution of consciousness, theories of memory, the role of narrative, the development of persons and selves, embodied cognition, the chemistry of ritual and the development of language — the works of Dawkins and Dennet despite their unconditional topicality could not be considered as contribution to the field of academic study of religion.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>new atheism</kwd>
+        <kwd>R. Dawkins</kwd>
+        <kwd>D. Dennet</kwd>
+        <kwd>cognitive science of religion.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2013/#1 (31)/errors/17_Sorkin D The Religious Enlightenment Protesta_lxml_575.xml 
+Год: 2013 
+Выпуск №: #1 (31)
+Статья в выпуске №: 17
+Статья в общем подсчете№: 575 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['Article Title']: Sorkin D. The Religious Enlightenment: Protestants, Jews and Catholics from London to Vienna. Princeton & Oxford: Princeton University Press, 2008
+ ['Year']: 2013
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/a96/17_Рецензия_Узланер.pdf'}
+ ['Pages']: -
+ ['Section']: Book reviews

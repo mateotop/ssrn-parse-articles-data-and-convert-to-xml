@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2015/#2 (33)/errors/17_Beaumont Justin and Baker Christopher eds 201_lxml_447.xml 
+Год: 2015 
+Выпуск №: #2 (33)
+Статья в выпуске №: 17
+Статья в общем подсчете№: 447 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Article Title']: Beaumont, Justin and Baker, Christopher (eds) (2011) Postsecular Cities: Space, Theory and Practice. London: Continuum. – 276 p.
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Pages']: -
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/7e2/GRC_2-2015_Готово.309-315.pdf'}
+ ['Year']: 2015
+ ['Section']: Book reviews

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Women Talking About Women: A Muslim Woman in the Tatar Periodical Press of the Early 20th Century</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brileva</surname>
+            <given-names>Diliara</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2018</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2018</copyright-year>
+      </permissions>
+      <abstract>
+        <b>This article deals with the study of the formation of two gender discourses, male and female, in Muslim Tatar periodicals of the Russian Empire in the early 20th century. The study is based on an analysis of such journals as “Syuyumbike”, “Azat Khanym” (“Liberated Woman”), the most authoritative journal of the Russian Muslims “Shura” (“The Council”), and other periodicals that dealt with the “women’s issue.” In this discourse, women took as active part as men, with respective differences. The article shows how, in the beginning, within the framework of the predominantly male discourse, the exceptional importance of women, primarily as a mother, was emphasized. Women’s discourse, which appeared later, focused on the problems of women themselves and various forms of violence on the part of men, as well as the appeals for women’s independence.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>History of the Russian Empire</kwd>
+        <kwd>history of Islam in Russia</kwd>
+        <kwd>the Tatar periodical press</kwd>
+        <kwd>journal “Shura”</kwd>
+        <kwd>journal “Syuyumbike”</kwd>
+        <kwd>journal “Azat khanym”</kwd>
+        <kwd>Muslim woman</kwd>
+        <kwd>woman in Islam.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

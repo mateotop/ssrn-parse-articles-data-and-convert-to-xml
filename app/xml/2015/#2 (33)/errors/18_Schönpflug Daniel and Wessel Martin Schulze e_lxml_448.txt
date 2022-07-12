@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2015/#2 (33)/errors/18_Schönpflug Daniel and Wessel Martin Schulze e_lxml_448.xml 
+Год: 2015 
+Выпуск №: #2 (33)
+Статья в выпуске №: 18
+Статья в общем подсчете№: 448 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Pages']: -
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/9b3/GRC_2-2015_Готово.315-324.pdf'}
+ ['Article Title']: Schönpflug, Daniel and Wessel, Martin Schulze (eds) (2012) Redefining the Sacred. Religion in the French and Russian Revolutions. Berlin: Peter Lang. – 226 p.
+ ['Year']: 2015
+ ['Section']: Book reviews

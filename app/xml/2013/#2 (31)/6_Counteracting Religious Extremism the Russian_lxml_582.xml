@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Counteracting „Religious Extremism“: the Russian State in Search for Responses to the Challeges of Desecularization</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Verkhovsky</surname>
+            <given-names>Alexander</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2013</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2013</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The article is devoted to the analysis of how Russian anti-extremism legislation is enforced with regard to religion-related actions and speech. The author aspires to identify key law enforcement patterns in this area. The article opens with a concise analysis of emergence of the «religious extremism» concept. It elaborates in detail on the working mechanisms of the anti-extremism legislation and argues that this legislation does not provide effective control (and the sphere of religion is not an exception in this regard). The author examines the motivation of leading anti-extremism actors and their contribution to the process of law-enforcement. The combination of religious and secular motives in law-enforcement not only results in arbitrariness but also fails to improve public security.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>extremism</kwd>
+        <kwd>Russia</kwd>
+        <kwd>law</kwd>
+        <kwd>law enforcement</kwd>
+        <kwd>secularism</kwd>
+        <kwd>incitement of hatred.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

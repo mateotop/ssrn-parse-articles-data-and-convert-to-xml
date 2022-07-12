@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2016/#1 (34)/errors/16_Jonveaux Isabelle Palmisano Stefania and Pace_lxml_359.xml 
+Год: 2016 
+Выпуск №: #1 (34)
+Статья в выпуске №: 16
+Статья в общем подсчете№: 359 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Year']: 2016
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/dda/GRC_1-2016_Готово.405-411_0.pdf'}
+ ['Pages']: -
+ ['Article Title']: Jonveaux, Isabelle, Palmisano, Stefania and Pace, Enzo (eds) (2014) Annual Review of the Sociology of Religion. Vol. 5: Sociology and Monasticism: Between Innovation and Tradition. Leiden, Boston: Brill. — 322 p.
+ ['Section']: Book reviews

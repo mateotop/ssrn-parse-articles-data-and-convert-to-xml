@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2016/#2 (34)/errors/18_Rakhmanin AYu et al eds 2016 Religiovedenie u_lxml_379.xml 
+Год: 2016 
+Выпуск №: #2 (34)
+Статья в выпуске №: 18
+Статья в общем подсчете№: 379 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['Article Title']: Rakhmanin, A.Yu. et al. (eds) (2016) Religiovedenie: uchebnik i praktikum dlia akademicheskogo bakalavriata [The Study of Religion: Textbook and Practical Work for Academic Bachelor Students]. Moscow: Iurait. — 307 p. (In Russian)
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Year']: 2016
+ ['Pages']: -
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/9dc/17_Review1_2_2016_GRC.pdf'}
+ ['Section']: Book reviews

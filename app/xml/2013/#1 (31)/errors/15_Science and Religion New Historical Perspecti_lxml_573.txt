@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2013/#1 (31)/errors/15_Science and Religion New Historical Perspecti_lxml_573.xml 
+Год: 2013 
+Выпуск №: #1 (31)
+Статья в выпуске №: 15
+Статья в общем подсчете№: 573 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/0b7/15_Рецензия_Раздъяконов2.pdf'}
+ ['Author']: 
+ ['Year']: 2013
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Pages']: -
+ ['Article Title']: Science and Religion: New Historical Perspectives / Ed. by Thomas Dixon, Geoffrey Cantor and Stephen Pumfrey. Cambridge: Cambridge University Press, 2010
+ ['Section']: Book reviews

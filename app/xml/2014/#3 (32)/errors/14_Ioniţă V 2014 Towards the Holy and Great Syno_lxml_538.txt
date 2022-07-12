@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2014/#3 (32)/errors/14_Ioniţă V 2014 Towards the Holy and Great Syno_lxml_538.xml 
+Год: 2014 
+Выпуск №: #3 (32)
+Статья в выпуске №: 14
+Статья в общем подсчете№: 538 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Year']: 2014
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/9ac/GRC_3-2014_final++.331-334.pdf'}
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Article Title']: Ioniţă, V. (2014) Towards the Holy and Great Synod of the Orthodox Church. Fribourg: Institute for Ecumenical Studies University of Fribourg. — 214 p.

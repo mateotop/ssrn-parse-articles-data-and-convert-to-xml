@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2015/#4 (33)/errors/19_Nongbri B 2013 Before Religion A History of a_lxml_488.xml 
+Год: 2015 
+Выпуск №: #4 (33)
+Статья в выпуске №: 19
+Статья в общем подсчете№: 488 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/507/GRC_4-2015_final.392-398.pdf'}
+ ['Pages']: -
+ ['Article Title']: Nongbri, B. (2013) Before Religion: A History of a Modern Concept. Yale University Press. – 275 p.
+ ['Year']: 2015
+ ['Section']: Book reviews

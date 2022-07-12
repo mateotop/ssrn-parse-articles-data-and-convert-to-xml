@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Nemti and Gold: Religious Violence and the Semantics of Punishment in an Ancient Egyptian Tale</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Murashko</surname>
+            <given-names>Andrei</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2020</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The article discusses the motif of bodily mutilation in connection with the punishment in an ancient Egyptian tale, in the story of the ferryman Nemti. This narrative is compared with similar Egyptian plots about the loss of body parts and their replacement/transformation into gold. Based on the works of Vladimir Propp, the author builds a model of the event which triggers the development of action in the fairy tale and in the myth. In addition, the paper refers to the philosophical aspect of the mutilation motif as addressed in the works of Mikhail Bakhtin, Georges Bataille and Réné Girard. While stating the universality of the rite de passage narrative model, the author reveals, drawing upon archaeological findings in the tombs of the New Kingdom, some additional semantic load in the Egyptian version of the narrative.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Ancient Egypt</kwd>
+        <kwd>fairy tale</kwd>
+        <kwd>mutilation</kwd>
+        <kwd>punishment</kwd>
+        <kwd>violence</kwd>
+        <kwd>rites of passage</kwd>
+        <kwd>mummification</kwd>
+        <kwd>gold.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

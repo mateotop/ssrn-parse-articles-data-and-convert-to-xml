@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2015/#4 (33)/errors/20_Kormina Zh Panchenko A and Shtyrkov S red2015_lxml_489.xml 
+Год: 2015 
+Выпуск №: #4 (33)
+Статья в выпуске №: 20
+Статья в общем подсчете№: 489 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Pages']: -
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/2ac/GRC_4-2015_final.398-407.pdf'}
+ ['Year']: 2015
+ ['Article Title']: Kormina, Zh., Panchenko, A. and Shtyrkov, S. (red.)(2015) Izobretenie religii: desekuliarizatsiia v postsovetskom kontekste [Invention of Religion: Desecularization in Post-Soviet Context]. Saint-Petersburg: Izdatel’stvo Evropeiskogo universiteta.–280 p.
+ ['Section']: Book reviews

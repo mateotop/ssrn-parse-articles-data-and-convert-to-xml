@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Dialectics of Secularization in Russia: An Appraisal of V. Zenkovsky’s History of Russian Philosophy</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pavlov</surname>
+            <given-names>Ilia</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2019</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2019</copyright-year>
+      </permissions>
+      <abstract>
+        <b>There is an ongoing debate regarding the dialectics of secularization in the West. One of the key works in the field is Charles Taylor’s A Secular Age, exploring the role of metaphysics in the development of Western secularism. Yet the process of secularization in the Russian context largely remains beyond the scope of the current scholarly discussions. Dealing with the dialectics of secularization in the history of Russian philosophy, the author draws a parallel between Charles Taylor’s fundamental work and Vasily Zenkovsky’s History of Russian Philosophy. The aim of the paper is to show that Zenkovsky’s work can be viewed as an analysis of secular and antisecular discourses in the Russian intellectual landscape. Despite major methodological shortcomings in the analysis of secularization, Zenkovsky does a brilliant work as a historian of ideas. The detailed examination he provides helps us to trace the influence of secular ‘Nova-Effect’ (Taylor’s concept) in the Russian context. Among the main shortcomings of Zenkovsky’s work are insufficient conceptual articulation of the notion of secularism as well as the lack of attention to the political context of Russian philosophical discourse. Nevertheless, a careful analysis of Zenkovsky can trigger further research of the dialectics of secularization in the history of the Russian thought.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>secularism</kwd>
+        <kwd>postsecular</kwd>
+        <kwd>Russian philosophy</kwd>
+        <kwd>Charles Taylor</kwd>
+        <kwd>Vasily Zenkovsky.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

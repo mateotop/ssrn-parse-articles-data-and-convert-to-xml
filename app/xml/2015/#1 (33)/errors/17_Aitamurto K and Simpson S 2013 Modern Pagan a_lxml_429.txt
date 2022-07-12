@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2015/#1 (33)/errors/17_Aitamurto K and Simpson S 2013 Modern Pagan a_lxml_429.xml 
+Год: 2015 
+Выпуск №: #1 (33)
+Статья в выпуске №: 17
+Статья в общем подсчете№: 429 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/9f7/ГРЦ_f 1 2015.336-341.pdf'}
+ ['DOI']: 
+ ['Topic']: 
+ ['Author']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A
+ ['Article Title']: Aitamurto, K. and Simpson, S. (2013) Modern Pagan and Native Faith Movements in Central and Eastern Europe. Acumen. — 352 p.
+ ['Pages']: -
+ ['Year']: 2015
+ ['Section']: Book reviews

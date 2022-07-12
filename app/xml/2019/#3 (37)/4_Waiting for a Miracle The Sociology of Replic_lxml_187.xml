@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Waiting for a Miracle: The Sociology of Replicants as Political Theology (Blade Runner 2049)</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Filippov</surname>
+            <given-names>Alexander F.</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2019</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2019</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The author presents a philosophical analysis of the film “Blade Runner 2049” (2017, directed by Denis Villeneuve) — the sequel to the famous film “Blade Runner” (1982, directed by Ridley Scott). Both films are read as a political-theological statement. They feature creatures that are biologically almost indistinguishable from humans, the “replicants”. They are used to colonize distant planets and are forbidden to live on Earth. In the first film of 1982, the design of the replicants presupposed an early death, and they rebelled against humans because they wanted to live longer. In the second film, their design presupposes submission, but they rebel again against such slavery. The script can be understood as a history of man’s relationship with the Creator. The film’s intrigue further addresses the notion of miracle in connection with the notion of revolution. The replicant’s ability to have children, and thus to refute the boundary between them and the humans, is presented as a miracle. However, only those who possess authority and power to set the norms and laws can proclaim a miracle as such. In the film, this right is assigned to the replicants: their uprising means the transfer of the transcendent into a plan of immanence. Their belief in a miracle lies precisely in the fact that the Creator, and the belief in the Creator, is not necessary.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>fiction</kwd>
+        <kwd>religion</kwd>
+        <kwd>political theology</kwd>
+        <kwd>androids</kwd>
+        <kwd>replicants</kwd>
+        <kwd>cinema</kwd>
+        <kwd>miracle</kwd>
+        <kwd>Revolution</kwd>
+        <kwd>anthropology.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

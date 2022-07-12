@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Exploring Neo-Pagan Groups in Social Networks as an Indicator of the Numbers of Adherents</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beskov</surname>
+            <given-names>Andrey </given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2020</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The theme of Russian Neo-Paganism or, as it is often called, Rodnoverie, has become prominent in academic periodicals which does not necessarily reflect the real level of Neo-Paganism’s popularity in the Russian society. Researchers are not able to convincingly estimate the number of its adherents. Sociological surveys are too contradictory, and we can try to rely upon the data collected on the Internet. Some authors have already used these data by counting the number of Neo-Pagan groups and followers in the social networks. The purpose of this paper is to assess the validity of such calculations. After having monitored various religious groups in such popular Russian social services as the Odnoklassniki and VKontakte for a few years, the author shows that this method of calculation is inefficient and can lead to errors. Therefore, the actual number of adherents of the Russian Neo-Paganism remains unknown even approximately.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Russian Neo-Paganism</kwd>
+        <kwd>Rodnoverie</kwd>
+        <kwd>social networking services</kwd>
+        <kwd>Neo-Pagan Groups in Social Networks</kwd>
+        <kwd>number of adherents.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Buddhist Revival and Buddhist Community Construction in Contemporary Buryatia</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Badmatsyrenov</surname>
+            <given-names>Timur</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rodionov</surname>
+            <given-names>Vladimir</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2020</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The current development of Buddhism in Buryatia is often characterized by the term “revival”. The leadership of Buriat Buddhists, Pandito Khambo Lama Damba Ayusheev and his circle, played the central role in the ideological construction of this revived tradition. The activities of the “Buddhist Traditional Sangha of Russia” (BTSR) are not limited to the religious sphere and cover a variety of aspects of the socio-political and economic life of Buryatia. BTSR is often opposed by other Buddhist organizations and groups. This opposition, or competition, forces BTSR to make significant efforts to integrate the “traditional” Buddhist community. This paper identifies the basic elements of constructing the Buddhist “revival” in Buryatia through the analysis of the activities of the Buddhist leadership. The leitmotif of the revival/ invention of the tradition is the claim of historical continuity and defining clear ethnic boundaries of the Buryat Buddhist community and its ability to overcome marginality within Russia and within the Buddhist community worldwide. Another element of this struggle for legitimacy is sacralization of the Buryat territory by introducing specific Buddhist markers. The most significant of such markers was the so-called “recovery of the immortal body of the Lama Itigelov.” This created a basis for supporting prestige and legitimacy of Buryat Buddhism and its claims to the status of an important Buddhist center in Russia and worldwide.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Buddhism</kwd>
+        <kwd>Buddhist communities</kwd>
+        <kwd>Buryatia</kwd>
+        <kwd>religious revival.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

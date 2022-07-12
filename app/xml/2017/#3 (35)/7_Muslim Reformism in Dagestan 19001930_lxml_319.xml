@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Muslim Reformism in Dagestan (1900–1930)</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shikhaliev</surname>
+            <given-names>Shamil</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2017</copyright-year>
+      </permissions>
+      <abstract>
+        <b>The movement of Muslim reformism appeared in Dagestan in the early twentieth century. The reformers aimed to develop Islamic thought and law in line with the new realities. There were three forms of this movement. The first group of scholars proposed reforming only the Islamic educational system, while supporting the tradition of the Shafi’i legal school. The second party of reformers went further and advocated expanding the framework of the Shafi’i legal school as well as the reform of education. The third group of reformers proposed reform of the system of Islamic education, criticized the legal schools, and called for independent judgments on the matter of Islamic law beyond the framework of the legal schools. Sufism also was the object of harsh criticism by the reformists of the second and third group. For this reason, the imperial and later the Soviet authorities supported the reform movement in Dagestan. Reformers, with their rational approach to Islam and to education, emerged as one of the Bolsheviks’ major partners and were incorporated into the Soviet educational system. This ended in the 1930s during the Red Terror when many prominent reformers were executed or sent into exile. Still, the reformers’ ideas survived. Their critique of Sufism and Islamic legal schools was later taken up by the Salafi groups in Dagestan in the post-Soviet period.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Muslim reformism</kwd>
+        <kwd>Dagestan</kwd>
+        <kwd>Egypt</kwd>
+        <kwd>Jadidism</kwd>
+        <kwd>Muslim law</kwd>
+        <kwd>Sufism</kwd>
+        <kwd>Islamic education.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

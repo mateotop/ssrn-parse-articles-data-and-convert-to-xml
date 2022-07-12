@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Death for Ideals and Veneration for Death: Martyrdom and Its Possible Models in Indian Culture</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ryzhakova</surname>
+            <given-names>Svetlana</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Renkovskaya</surname>
+            <given-names>Evgeniya</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2022</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement>Russian Presidential Academy of National Economy and Public Administration.</copyright-statement>
+        <copyright-year>© 2022</copyright-year>
+      </permissions>
+      <abstract>
+        <b>This article is an attempt to analyze the problem of understanding and defining the phenomenon of martyrdom in relation to the history and culture of India. The application of the concept of “martyrdom” to different (in particular, non-Abrahamic) religions and to different societies poses a number of problems related to the cross-cultural conceptualization of this phenomenon and the application of the very term “martyrdom” or its analogues to those cultures where sucha concept was initially absent. Being originally Christian, the concept of martyrdom undergoes all kinds of transformations and modifications as applied to different contexts. We therefore start with defining some key criteria of the phenomenon. First, it is the presence of external forces and circumstances causing the death of a martyr; second, it is a reference to some good ideas or goals for which the martyr died; third, it is a posthumous memory and veneration, directly related to the death of a martyr who thus becomes a role model. The authors single out three possible models of martyrdom, known in the history and culture of India: shahadat — suffering and death for one’s beliefs, both religious and political, underlying the modern Indian national “pantheon” of martyrs; the kshatriya model, associated with military ethics; and the vernacular model, which underlies the formation of locally worshiped deities and deified heroes.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>martyrdom</kwd>
+        <kwd>shahadat</kwd>
+        <kwd>shahid</kwd>
+        <kwd>sacrificial death</kwd>
+        <kwd>castes</kwd>
+        <kwd> cults</kwd>
+        <kwd>India.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>
