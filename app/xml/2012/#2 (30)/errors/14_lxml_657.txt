@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2012/#2 (30)/errors/14_lxml_657.xml 
+Год: 2012 
+Выпуск №: #2 (30)
+Статья в выпуске №: 14
+Статья в общем подсчете№: 657 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Article Title']: Bruce S. Secularization: In Defence of an Unfashionable Theory. Oxford University Press, 2011
+ ['Author']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/70a/Steve Bruce.pdf'}
+ ['Topic']: 
+ ['DOI']: 
+ ['Year']: 2012
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Abstract']: N/A

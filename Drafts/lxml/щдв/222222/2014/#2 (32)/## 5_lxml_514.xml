@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Rationalizing Popular Islam among the Slav Speaking Pomaks in Greece: Religious Experiences and Politics of Religion</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tsibiridou</surname>
+            <given-names>Fotini</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2014</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The study explores the conjunction of popular Islam with the Bektashi Sufi and Sunni traditions. The fieldwork of the Slav speaking Pomaks was conducted in the mountainous area of Rhodopi, in Greek Thrace. The analysis of this case study in the area populated by Slav speaking populations (the Pomaks) helps to understand critically the modalities of each religious tradition as well as their interconnections. As many examples show, the Muslim traditions seem to have different and often contrasting origins: while the Sufis and the popular Islam promote the principle of unity between human beings and nature, the Sunnis construct themselves around a constant and agonizing production of orthopraxy and in open dialogue with power. The dilemma between popular practices and Islamic scholarly tradition is further complicated by the impact of western theology, scientific worldviews, and the Pomaks’ status of a linguistic as well as religious minority within Orthodox Greek environment. The transition from popular practices to more rationalized forms of religiosity generates a new field of dynamic confrontations.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Sunni Islam</kwd>
+        <kwd>Sufi traditions</kwd>
+        <kwd>Bektashi</kwd>
+        <kwd>religiosity</kwd>
+        <kwd>popular Islam</kwd>
+        <kwd>politics of religion</kwd>
+        <kwd>Pomaks</kwd>
+        <kwd>Greek Thrace</kwd>
+        <kwd>Balkans.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

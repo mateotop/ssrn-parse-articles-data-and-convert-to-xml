@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>«We Express Our Full Readiness to Help the Soviet Power...» A Short Experience of Integration of the Russian «Spiritual Christians» into the Socialist Economy of the 1920s</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Danilova</surname>
+            <given-names>Elena</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2018</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article examines the history of a short‑lived cooperation between the Soviet power and the communities of the Russian Spiritual Christians (dukhovnye khristiane), such as Dukhobors, Molokans, and New Israelites. After the revolution and during the 1920s, the communities of these Christian sects created a type of economic associations that formally could correspond to the Bolsheviks’ economic policies. The Bolsheviks considered these communities as their allies, believing that they could become agents of socialist economic forms in the agriculture. Spiritual Christians have indeed created communities based on a specific collectivistic work ethic and moral norms, and they achieved high productivity on the lands allocated to them by the authorities. The paper deals, in particular, with a region in the North Caucasus region. This experiment, although successful economically, was quickly curtailed after the dramatic change of Soviet policies in the late 1920s, when the sects and their communities were destroyed.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>sects</kwd>
+        <kwd>Russian revolution</kwd>
+        <kwd>emigration</kwd>
+        <kwd>Spiritual Christians</kwd>
+        <kwd>Molokans</kwd>
+        <kwd>Dukhobors</kwd>
+        <kwd>the Novyi Izrail</kwd>
+        <kwd>Soviet religious policy.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

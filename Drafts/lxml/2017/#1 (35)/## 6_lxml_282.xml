@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Cardinal Wyszynski — Initiator and Critic of Vatican’s “Eastern Policy,” 1945–1978</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Filippov</surname>
+            <given-names>Boris</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article deals with Vatican’s “Eastern Policy” of the Polish Cardinal Stefan Wyszyński (1901 – 1981). The main source is the 20‑volume publication of the Polish historian P. Raina “Cardinal Stefan Wyszyński. Time of Service” containing extensive fragments from Wyszyński’s diaries (“Pro memoria”). We ind there the Cardinal’s notes on his meetings and discussions with Popes John XXIII, Paul VI, the leaders of the Roman Curia, Vatican diplomats, and leaders of the Polish Episcopate. All these give us a chance to see  Vatican’s “Eastern Policy” from inside, to understand its motives and  its intrinsic logic, as well as the reasons for its criticism by Cardinal Wyszyński. For Pope Paul VI communism was an expanding global political system, and the Holy See’s diplomacy was to ind compromises with it, while for Cardinal Wyszyński and the Polish bishops, communism was an archaic and obsolete doctrine, and they saw their main duty to resist it.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Communism</kwd>
+        <kwd>“Eastern Policy” of the Vatican</kwd>
+        <kwd>John XXIII</kwd>
+        <kwd>Paul VI</kwd>
+        <kwd>A. Casaroli</kwd>
+        <kwd>L.  Poggi</kwd>
+        <kwd>S.  Wyszyski</kwd>
+        <kwd>P.  Raina</kwd>
+        <kwd>the Holy See.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

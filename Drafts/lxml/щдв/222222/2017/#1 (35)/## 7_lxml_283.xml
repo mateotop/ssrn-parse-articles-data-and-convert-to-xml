@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mennonites in North America and the USSR in the Mid-1950s: Small People and Big Politics</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dyck</surname>
+            <given-names>Johannes</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article deals with the Soviet national and religious politics in 1955‑1957 between the two phases of religious persecutions of non‑Orthodox Christian confessions. In conjunction with the big state politics, there existed actors of an intermediate level —  confessional associations and organizations. The Soviet State promoted “struggle for peace” through confessional associations, and this policy implied international contacts. Mennonites, being marginal groups in both the USSR and in North America, beneited from luctuations of the Soviet political course toward religion. Using the connections to the Evangelical Baptists, the North American Mennonites managed to establish irst contacts with their brethren who at that moment were released from their deportation status and gained freedom of  settlement. The North American Mennonites did not achieve their primary goal of complete recognition of the Soviet Mennonites but they managed to raise their political status and succeeded in positioning them as a confession that should be regarded alongside other legal confessions.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Council for the Affairs of Religious Cults</kwd>
+        <kwd>Mennonites</kwd>
+        <kwd>Mennonite Central Committee</kwd>
+        <kwd>Soviet religious politics.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

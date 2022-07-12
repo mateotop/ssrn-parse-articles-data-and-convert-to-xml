@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>James H. Cone and Black Theology</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Joseph</surname>
+            <given-names>Celucien L.</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>For many critics, James H. Cone (1938–2018), “The Father” of Black liberation theology, was America’s most important (Black) theologian in the twentieth-century who had energetically engaged the urgent issues of America’s race relations, justice, Black suffering, and civil rights. He wrote and spoke loudly against what he called “America’s Original Sin”, (White) racism, and thus pressed upon White Americans, especially White Christians in America, to stop practicing anti-Black racism and to alter their scornful feeling toward Black people. Cone also summoned White American Christians and the White church to embody the liberative message of the biblical prophets and Jesus Christ, as well as God’s categorical demands to Christians to practice justice, do what is right, and to hate oppression. In the same vein, through his politico-theological and ethical writings, he awakened the American conscience to the forces and systems that oppress and dehumanize Black people and alienate other marginalized groups in America from the opportunities and privileges in society.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>James H. Cone</kwd>
+        <kwd>Black theology</kwd>
+        <kwd>Black suffering</kwd>
+        <kwd>White racism</kwd>
+        <kwd>White American Christianity.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

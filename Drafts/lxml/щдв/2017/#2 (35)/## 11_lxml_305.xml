@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Russian Tsar in Non-Christian Religions of the Russian Empire</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Trepavlov</surname>
+            <given-names>Vadim</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article describes the sacralization of a Russian monarch’s person in the non‑Christian religious systems of the Russian Empire (Islam, Buddhism, traditional beliefs). It shows that in Christianizing subjects’ mythological worldview a tsar could play the role of a demiurge, replacing the pagan creator, and moreover, Russian Buddhists actually included the supreme rulers of the Empire in the pantheon of their faith. The government encouraged the imposition of the cult of the emperor by obliging the clergy of non‑Christian faiths to engage the congregation in the celebration of national events related to the reigning dynasty (which also had religious overtones). Central and local administrative authorities invented prayers for the health of the ruling tsar and his family. These measures were an important means of involving the ethnic elites and, in general, the non‑Slavic population, in participation in the life of the state and of implementing government policy in the national regions. The emperors’ personal contacts with non‑Christian subjects, including primates of non‑Orthodox denominations, occupied a prominent place in government ethnic policy.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>: sacralization</kwd>
+        <kwd>emperor</kwd>
+        <kwd>clergy</kwd>
+        <kwd>worldview</kwd>
+        <kwd>mythology</kwd>
+        <kwd>prayer</kwd>
+        <kwd>worship.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

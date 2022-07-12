@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Religious Practices, Everyday Religiosity and Western Mass Culture in the Closed City of Dniepropetrovsk in Post-Stalin Era (1960–1984)</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhuk</surname>
+            <given-names>Sergey</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2012</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>Part of a larger research project about Soviet cultural consumption and identity formation, this article explores the connection between religious practices and western mass culture in the industrial city of Dnepropetrovsk, Ukraine, in the late socialist period. The Committee of State Security closed Dnepropetrovsk to foreigners in 1959 when one of the Soviet Union’s biggest missile factories opened there. Because of its “closed” nature, Dnepropetrovsk became a unique Soviet social and cultural laboratory where various patterns of late socialism collided with new Western cultural influences. The closed city of Dnepropetrovsk can be seen as a microcosm of Soviet society as a whole. Drawing from a wide variety of sources, including archival documents, periodicals, personal diaries and interviews, this article demonstrates how popular fascination for Western rock music, such as Andrew Lloyd Webber’s Jesus Christ Superstar, spurred interest in Christianity. Local Protestant and Orthodox church leaders skillfully promoted such interest, even as the Party bosses tried to quash it. This study stands as a reminder of the continued draw of Christianity in Orthodoxy’s heartland—even through alternative, modernizing media—despite the official promotion of atheism.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>religious practices</kwd>
+        <kwd>mass culture</kwd>
+        <kwd>youth culture</kwd>
+        <kwd>personal identification</kwd>
+        <kwd>Baptists</kwd>
+        <kwd>Adventists</kwd>
+        <kwd>Krishna Consciousness</kwd>
+        <kwd>Dnepropetrovsk</kwd>
+        <kwd>Ukraine.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

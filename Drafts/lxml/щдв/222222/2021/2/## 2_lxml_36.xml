@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From creatio ex nihilo to creatio ex profundis: Rethinking the Doctrine of Creation in Postmetaphysical Theology</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Konacheva</surname>
+            <given-names>Svetlana</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article is devoted to the rethinking of the traditional doctrine of creation in postmetaphysical theology, which is seen as an example of contextual theology. An analysis of the works of Catherine Keller (feminist theology) and John Caputo (theology of event) demonstrates that creation is reinterpreted in the context of attempts to  overcome the power discourse and dissociate the idea of the divine from the idea of sovereignty. The creation, in this postmodern theopoetics, is understood not as a move from nothing into something, but rather as a transformation of darkness and depth. The concept of creation ex nihilo is related to Greek philosophical concepts of omnipotence, which reject the primordial chaos and the feminine in favor of a powerful patriarchal deity. In this context, Keller and Caputo transform the traditional doctrine of creation ex nihilo into creation ex profundis or ex amore. In their interpretation, the biblical narrative doesn’t describe a single pure force acting ex nihilo, but an ensemble of forces, one of which appears as active and formative, and the other as more open, mobile and unformed. Thus, in postmodern theology, we have an emphasis on poetic becoming and the rejection of a hypermasculine, powerful God. We argue that theological hermeneutics, in its effort to destroy divine sovereignty, also deconstructs traditional monotheism. This theology tries to show that religion in the postmodern world is a way of being-in-the-world.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>contextual theology</kwd>
+        <kwd>theopoetics</kwd>
+        <kwd>creation</kwd>
+        <kwd>power</kwd>
+        <kwd>sovereignty</kwd>
+        <kwd>weakness</kwd>
+        <kwd>Catherine Keller</kwd>
+        <kwd>John Caputo.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

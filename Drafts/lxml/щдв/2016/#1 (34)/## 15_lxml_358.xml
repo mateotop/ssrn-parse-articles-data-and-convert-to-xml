@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The 1917–1918 Local Council of the Russian Church: New Approaches and Studies</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beliakova</surname>
+            <given-names>Nadezhda</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article examines the experience of studying the Local Council of the Russian Orthodox Church 1917–1918 by the international research community. The article shows the unprecedented interest towards this historical event, which went beyond the borders of the Russian church history and became a symbol of the renewal of church life. The Council´s activity is examined through the prism of the research interest of Russian and foreign authors. Particular attention is paid to the research project of German theologian and historian professor Günther Schulz, in the series «Church Reforms», which are dedicated to the history of preparation and activity of the Council, edited by archpriest Nikolai Balashov, as well as to the monograph by French Catholic theologian, priest Hyacinthe Destivelle.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>history of Russia (USSR)</kwd>
+        <kwd>history of Russian Church</kwd>
+        <kwd>the Local Council of the Russian Orthodox Church 1917–1918</kwd>
+        <kwd>renewal</kwd>
+        <kwd>the restoration of the patriarchate</kwd>
+        <kwd>the laity in the Church</kwd>
+        <kwd>deaconess in Russian church</kwd>
+        <kwd>Prof. Günther Schulz</kwd>
+        <kwd>pr. Hyacinthe Destivelle</kwd>
+        <kwd>pr. Nikolai Balashov..</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

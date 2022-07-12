@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2014/#1 (32)/errors/18_lxml_509.xml 
+Год: 2014 
+Выпуск №: #1 (32)
+Статья в выпуске №: 18
+Статья в общем подсчете№: 509 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Article Title']: Asprem, E. and Granholm, K. (eds) (2013) Contemporary Esotericism. Sheffield, Bristol: Equinox Publishing. — 448 p.
+ ['Author']: 
+ ['Topic']: 
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/262/GRC_1-2014_final.320-325.pdf'}
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Year']: 2014
+ ['Abstract']: N/A

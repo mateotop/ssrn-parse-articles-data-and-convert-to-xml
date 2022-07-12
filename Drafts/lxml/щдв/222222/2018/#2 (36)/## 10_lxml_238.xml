@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Perception of Islam in the Russian Society: Comparative Dimension</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Malakhov</surname>
+            <given-names>Vladimir</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Letnyakov</surname>
+            <given-names>Denis</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2018</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>Unlike in Western Europe, there is no demand for exclusion of Muslims from the Russian “political market.” There are two reasons for this: the “autochthonous” nature of Islam in Russia and the specific features of the current political system. Due to these two factors, parties with an openly Islamophobic agenda are unlikely to emerge, and public articulation of negative attitudes toward Islam and Muslims is hampered. At the same time, Russia is experiencing tensions similar to those in Western European societies. They include conflicts on the presence of Islamic symbols in public sphere, such as wearing hijab in public schools and building new mosques in Russian regions where Muslims make a minority. In spite of the officially promoted rhetoric of “inter-faith harmony,” the Russian society is deeply polarized; the cultural and symbolic space is divided into unspoken zones of influence. In the regions where Muslims make the majority, the patterns of Islamic presence are different. As for migration from outside Russia, this has not been an issue of public debate until very recently. Central Asian migrants were long perceived in terms of ethnicity rather than in term of religion. More recently, the shift in how they are viewed occured because of: (a) a reflection of the “Western” agenda by Russian media; (b) increasing “visibility” of Muslim migrants in public space; (c) some resonant cases of involvement of Central Asian newcomers in terrorist attacks.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Islam</kwd>
+        <kwd>Islamophobia</kwd>
+        <kwd>religion</kwd>
+        <kwd>migration</kwd>
+        <kwd>secularism</kwd>
+        <kwd>public discourse</kwd>
+        <kwd>Russia</kwd>
+        <kwd>Western Europe.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

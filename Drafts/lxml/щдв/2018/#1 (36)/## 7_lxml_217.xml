@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The First Russian Female Scholars of Religion and Their Academic Legacy</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khorina</surname>
+            <given-names>Veronika</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2018</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article is devoted to the study of the academic careers and public activities of three Russian female scholars, Nadejda Brullova- Shaskolskaya, Sara Ratner-Shternberg and Vera Kharuzina, in the context of the history of Russian religious studies in the mid-19th to early 20th centuries. Theirs was some of the first research work in Russia that highlighted the new science of religion. For example, Brullova-Shaskolskaya was one of the first scholars to apply a comparative anthropological method to the study of ancient Roman religion, Ratner-Shternberg investigated material on the beliefs of North American Indians, and Kharuzina made an invaluable contribution by introducing the main issues of the science of religion into her university lectures. Studying the activities of the first women scholars of religion at the turn of 20th century, in one of the most difficult periods of Russian history, provides an opportunity to cover a number of important issues such as women’s education, the inclusion of women in research and in the academic community, and the relationship between science and political power. It makes it possible to revise the image of the era in the context of the intellectual history of Russia.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>ethnography</kwd>
+        <kwd>history of religions</kwd>
+        <kwd>anthropology of religion</kwd>
+        <kwd>religious studies in Russia</kwd>
+        <kwd>intellectual history of science</kwd>
+        <kwd>“repressed science”.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

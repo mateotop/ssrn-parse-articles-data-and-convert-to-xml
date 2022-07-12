@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2013/#2 (31)/errors/17_lxml_593.xml 
+Год: 2013 
+Выпуск №: #2 (31)
+Статья в выпуске №: 17
+Статья в общем подсчете№: 593 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Article Title']: Smirnov M. Yu. Religion and Religious Studies in Russia. Saint-Petersburg: Izdatel’stvo Russkoj hristianskoj gumanitarnoj akademii, 2013 (in Russian)
+ ['Author']: 
+ ['Topic']: 
+ ['Year']: 2013
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/6cd/4_0.pdf'}
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Abstract']: N/A

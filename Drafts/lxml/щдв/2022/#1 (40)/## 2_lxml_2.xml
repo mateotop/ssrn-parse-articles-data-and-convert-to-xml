@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>“I Do Not Recognize the Empire of This World”: Martyrs and the Roman Empire</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Panteleev</surname>
+            <given-names>Aleksey</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2022</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article examines the evidences of the early hagiographic tradition about the attitude of Christians to Rome. For the martyrs themselves,  who were striving for death, the opposition to the Romans did not matter, but this topic could attract the attention of the authors and editors of the acta and passions. The surviving texts do not directly accuse Christians of conspiracy, nor are there obvious manifestations of their political disloyalty, but some of the ideas contained in them make it possible to understand the concerns of the Romans. First of all, this is the attitude of Christians to the Cult of the Emperor: the refusal of the martyrs to celebrate it put them outside the law, turning them into traitors and a threat to the State. They opposed the eternal Kingdom of God and the temporary power of Caesars. The Roman identity was replaced by the Christian one: martyrs considered themselves as citizens not of Rome, but of the Kingdom of God. Christians pointed out that the Emperor was ordained by God, which means that His instructions and commandments were more important. The execution of the martyrs, which was supposed to humiliate them, turned into a celebration of faith, which violated the established ritual of maintaining Roman order. The convicted Christian disturbed the usual course of events, he welcomed torture, rejoiced in death and supervised his own execution. Finally, the texts of the martyrdom are typologically similar to Acta Alexandrinorum, records of the trial and execution of pagans who criticized Rome. Observing the evolution of the image of Roman magistrates, we see how gradually the clashof the martyr and the entire Roman order turned into a conflict between a virtuous Christian and an evil governor of the province, thus removing the responsibility for the persecution from the Emperor.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Early Christianity</kwd>
+        <kwd>Roman Empire</kwd>
+        <kwd>hagiography</kwd>
+        <kwd>martyrdom</kwd>
+        <kwd>persecution</kwd>
+        <kwd>Cult of the Emperor.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

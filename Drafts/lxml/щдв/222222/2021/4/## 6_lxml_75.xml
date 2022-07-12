@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Phenomenon of Evil in the Atheistic Discourse: The Illusion of Heuristic Advantage</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sidorin</surname>
+            <given-names>Vladimir</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The author considers the argument formulated by a number of modern philosophers (G. Oppy, P. Draper) that atheism has a certain heuristic advantage in explaining the phenomenon of evil, which in discussions between theism and naturalism allows us to justify the rational choice of a theoretical position in favor of naturalism. The author admits the peripheral nature of the problem of evil in non-theistic thinking, while he shows a major trend in current philosophy to conceptualize the problem of evil within the framework of secular thinking. The author indicates a process underway of forming of a separate subject area, a kind of secular “evil studies,” the potential and productivity of which is too early to assess. The paper then explores the assumption that the description of the mechanics of work of evil can be identical with its explanation. The opinion that evil is exclusively problematized in theistic thinking is but a result of a certain inertia of the intellectual history. In fact, the problem of evil is one of the vulnerable points within atheistic (and, broadly, secular) discourse, which downplays the alleged heuristic advantage of atheism.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>the problem of evil</kwd>
+        <kwd>atheism</kwd>
+        <kwd>theism</kwd>
+        <kwd>naturalistic ethics</kwd>
+        <kwd>evil-skepticism</kwd>
+        <kwd>secular theory of evil.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

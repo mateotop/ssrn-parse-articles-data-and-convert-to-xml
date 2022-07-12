@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2012/#1 (30)/errors/17_lxml_643.xml 
+Год: 2012 
+Выпуск №: #1 (30)
+Статья в выпуске №: 17
+Статья в общем подсчете№: 643 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Author']: 
+ ['Article Title']: A.Anderson, M.Bergunder, A.Droogers, and C.Van der Laan, eds. Studying Global Pentecostalism: Theories and Methods Berkeley, Los Angeles, London: University of California Press, 2010
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/ae1/Studying Global Pentecostalism- Theories and Methods.pdf'}
+ ['Topic']: 
+ ['DOI']: 
+ ['Year']: 2012
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Abstract']: N/A

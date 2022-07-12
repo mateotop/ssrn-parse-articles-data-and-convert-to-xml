@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>"The Pussy Riot Case" and the Peculiarities of Russian Postsecularism</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Uzlaner</surname>
+            <given-names>Dmitry</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2013</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article is devoted to the analysis of the materials of the «Pussy Riot» case, which started after the scandalous punk-prayer of the musical group in the Cathedral of Christ the Savior of the Russian Orthodox Church in Moscow (Feb. 2012). These materials are used to illustrate the peculiarities of postsecular situation in Russia. Two issues are analyzed with special precision: 1) «punk-prayer» and the religious / secular boundary; 2) «punk-prayer» and postsecular hybrids. The author emphasizes that postsecular processes do not follow one single pattern and that we can’t talk about postsecularism in singularity; instead we should talk about collisions between different normative models of postsecularism, each supported by it’s own actors and activists. The materials of the case allow us to single out two such models: «official» (supported by state and Church powers) and «oppositional» (supported by political and Church opposition).</b>
+      </abstract>
+      <kwd-group>
+        <kwd>desecularization</kwd>
+        <kwd>«punk-prayer»</kwd>
+        <kwd>postsecular</kwd>
+        <kwd>postecular hybrids</kwd>
+        <kwd>Pussy Riot.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2012/#3-4 (30)/errors/23_lxml_682.xml 
+Год: 2012 
+Выпуск №: #3-4 (30)
+Статья в выпуске №: 23
+Статья в общем подсчете№: 682 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Author']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/8a6/23.pdf'}
+ ['Topic']: 
+ ['DOI']: 
+ ['Year']: 2012
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Article Title']: Werth P. Orthodoxy, Other Confessions, and Other Faiths: Essays on the History of Religious Diversity in the Russian Empire. Moscow: Novoe literaturnoe obozrenie, 2012 (In Russian)
+ ['Pages']: -
+ ['Abstract']: N/A

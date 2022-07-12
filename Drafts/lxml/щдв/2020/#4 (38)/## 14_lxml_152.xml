@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Hasan ‘ Ata Gabashi versus the Missionary Evfimiy Malov: An Example of Muslim-Christian Polemics of the Late 19th Century</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mardanova</surname>
+            <given-names>Dinara</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article deals with the Muslim reaction to the Russian Orthodox missionaries’ challenge in the polemic work by Hasan ‘Ata Gabashi “Nur al-haqiqa” (1886). The author explores the internal mechanism of Islamic discourse, which works to protect the sphere of Muslim dogmatic (‘aqida) from the “alien” influence and is realized through the delineation of protective boundaries. As a defence tactic, Gabashi uses the strategy of refuting “false idea” or “false teaching” from ‘Ilm al-Kalam. The paper analyses the development of the narrative, the argumentation used by Gabashi and the behavior of those involved in the polemics. As he implements his “protective project,” Gabashi explores and criticizes Christian ideas in terms of his own discourse. As the Muslim author, Gabashi does not reject the entire Christian doctrine or the entire Bible, but selectively criticizes “distortions” that are contrary to Islam.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Muslim-Christian relations</kwd>
+        <kwd>polemics</kwd>
+        <kwd>Muslims in the Russian Empire</kwd>
+        <kwd>Volga region</kwd>
+        <kwd>Orthodox missionaries.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

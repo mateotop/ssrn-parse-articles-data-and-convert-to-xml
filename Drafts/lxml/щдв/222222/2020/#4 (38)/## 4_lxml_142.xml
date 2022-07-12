@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Christian Foundations of Fritz Jahr’s Concept of Bio-Ethik and Contemporary Central European Perspective</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beliakova</surname>
+            <given-names>Nadezhda</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article presents the concept of Bio-Ethik by the German theologian Fritz Jahr (1895–1953) and discusses the reasons of the interest to his legacy in Central Europe. The popularity of Fritz Jahr’s works fits into the specific context of a complex development of bioethics in Central Europe at the turn of the twenty-first century. The appeal to Fritz Jahr’s ideas in the field of bioethics allows us to assess the contribution of Christian thinkers to the articulation of bioethical issues and to raise the question of why in modern bioethics, which is trying to draw upon universal, non-religious values, there was a demand for theological works of a Protestant pastor. The article describes the attitude to bioethics in Germany at the turn of the 1980s–90s, the ideological conflict of the “anti-bioethics” movement and the context of the new reception of Fritz Jahr’s works.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Christian bioethics</kwd>
+        <kwd>Fritz Jahr</kwd>
+        <kwd>history of bioethics in Central Europe</kwd>
+        <kwd>bioethics in Germany.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2013/#2 (31)/errors/15_lxml_591.xml 
+Год: 2013 
+Выпуск №: #2 (31)
+Статья в выпуске №: 15
+Статья в общем подсчете№: 591 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Author']: 
+ ['Topic']: 
+ ['Year']: 2013
+ ['DOI']: 
+ ['Pages']: -
+ ['Abstract']: N/A
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/027/2_0.pdf'}
+ ['Article Title']: Religious Diversity in Post-Soviet Society. Ethnographies of Catholic Hegemony and the New Pluralism in Lithuania / Eds. Milda Ališauskienè, Ingo Schröder. Farnham, Burlington: Ashgate, 2012

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Relations between Copts and Syrians in the Light of Discoveries at Dayr as-Suryān</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Heijer</surname>
+            <given-names>Johannes Den</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2015</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article offers a contextualizing analysis of archeological, iconographical and epigraphical data discovered mostly in the late 1990s at Dayr as-Suryān in Wādī-n-Naṭrūn between Cairo and Alexandria. It highlights the historical relations between the Egyptian (Coptic) and Syrian Christian communities and the presence of Syrian monks at the monastic site in question, as well as in Cairo and in Egypt generally. The main textual evidence studied consists of epigraphical material that may be considered to be “synodical inscriptions” as they are shown to be related to the exchange of the well-established tradition of exchange of “Synodical Letters” between the patriarchs of the two non-Chalcedonian sister Churches. Four such inscriptions, dated to the 8th, 9th, 10th, and 11th centuries A.D., are compared to external evidence and more particularly to Copto-Arabic historiography. In a concluding analysis, this phenomenon is briefly studied within the larger context of contacts and exchanges between the two communities and the migration of Syrian and other Oriental Christians to Egypt.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Coptic Orthodox Church</kwd>
+        <kwd>Syrian Orthodox Church</kwd>
+        <kwd>Patriarchate of Alexandria</kwd>
+        <kwd>Patriarchate of Antioch</kwd>
+        <kwd>Dayr as-Suryān</kwd>
+        <kwd>Monastery of the Syrians</kwd>
+        <kwd>Wādī-n-Naṭrūn</kwd>
+        <kwd>Syriac inscriptions</kwd>
+        <kwd>Synodical Letters</kwd>
+        <kwd>History of the Patriarchs of Alexandria</kwd>
+        <kwd>Bashmurites</kwd>
+        <kwd>Moses of Nisibis</kwd>
+        <kwd>Syrians in Egypt</kwd>
+        <kwd>Armenians in Egypt</kwd>
+        <kwd>Abbasids</kwd>
+        <kwd>Fatimids.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

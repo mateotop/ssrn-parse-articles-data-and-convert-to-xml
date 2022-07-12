@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Concept of Eternity in Contemporary Analytic Theology: The Challenge of Temporalism</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pleshkov</surname>
+            <given-names>Alexey</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article analyzes the conditions of the occurrence, key ideas and the success factors of temporalism — the dominant position describing God’s relation to time in contemporary analytic philosophy. Unlike traditional eternalism, which treats the being of God in terms of time transcendence, i. e., timelessness and the absence of duration, temporalism assumes the existence of God in the past, present and future, i. e., His principal temporality. Despite the fact that the idea of divine eternity as transcendence is traditionally viewed as an integral part of Christian doctrine, key proponents of temporalism — Nicholas Wolterstorff, Richard Swinburne, and Anthony Kenny — sought to prove, first, eternalism’s origins in pagan Greek philosophy that is alien to Christianity; second, the incompatibility of the traditional concept of eternity with the fundamental form of biblical thought; finally, strict rationality, and hence better compatibility of temporalism with the achievements of contemporary philosophy. The reanimation of classical theological questions through temporalism, together with openness to the actual philosophical agenda, contributed to the further productive development of subject matter, as well as the consolidation of theology’s status as an autonomous and respectable subdiscipline within the English‑speaking Academy.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>eternity</kwd>
+        <kwd>analytic theology</kwd>
+        <kwd>temporalism</kwd>
+        <kwd>time</kwd>
+        <kwd>eternalism</kwd>
+        <kwd>twentieth-century philosophy</kwd>
+        <kwd>contemporary theology.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

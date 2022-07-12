@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns_xlink="http://www.w3.org/1999/xlink" dtd_version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id journal_id_type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev_type="nlm-ta" />
+      </journal-title-group>
+      <issn pub_type="ppub" />
+      <issn pub_type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub_id_type="manuscript" />
+      <article-categories>
+        <subj-group subj_group_type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj_group_type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Tul’pe I. Myphology, Art, Religion. Saint-Petersburg: Nauka Publishers, 2012 (In Russian)</article-title>
+        <alt-title alt_title_type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib_type="author">
+          <name>
+            <surname />
+            <given-names />
+          </name>
+          <email />
+          <role content_type="1" />
+          <xref ref_type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content_type="addrline1" />
+          <addr-line content_type="city" />
+          <addr-line content_type="state" />
+          <addr-line content_type="zipcode" />
+          <addr-line content_type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub_type="epub" />
+      <pub-date pub_type="ppub" />
+      <elocation-id />
+      <history>
+        <date data_type="received">
+          <day />
+          <month />
+          <year>2012</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>N/A</b>
+      </abstract>
+      <kwd-group>
+        <kwd />
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

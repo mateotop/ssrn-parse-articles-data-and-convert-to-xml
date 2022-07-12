@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2015/#1 (33)/errors/18_lxml_430.xml 
+Год: 2015 
+Выпуск №: #1 (33)
+Статья в выпуске №: 18
+Статья в общем подсчете№: 430 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Article Title']: Zabotkina, V. (ed.) (2012) Russia: A Changing Concept of Time through the Lens of Language. Representations of Time in Russian Language in Comparison with English and German. Moscow: Rukopisnye pamiatniki drevnei Rusi. In Russian. — 472 p.
+ ['Author']: 
+ ['Year']: 2015
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/803/ГРЦ_l 1 2015.341-348.pdf'}
+ ['Topic']: 
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Abstract']: N/A

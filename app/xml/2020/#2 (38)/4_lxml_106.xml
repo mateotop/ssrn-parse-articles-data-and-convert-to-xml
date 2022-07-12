@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Communicative Figurations of Mediatized Worlds: Mediatization Research in Times of the “Mediation of Everything”</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hepp</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>When various media in their entirety mark how we articulate our social worlds, we need an approach of mediatization research that reflects this transmediality. To develop such an approach, the article first discusses the “institutionalist” and “social‑constructivist” traditions of mediatization research. Both traditions concur in their understanding of mediatization as being a concept to capture the interrelation between the change of media and communication on the one hand, and the change of culture and society on the other hand. Taking this as a foundation it becomes possible to reflect on the role of certain media as “moulding forces”, i. e. as certain institutionalizations and reifications of communication. Such a conceptual reflection offers the chance to view the mediatization process as the change of transmedial communicative figurations by which we construct our mediatized worlds. Based on this theoretical foundation, the article subsequently reflects a twofold operationalization, i.e. as diachronous and synchronous mediatization research.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>communication theory</kwd>
+        <kwd>figuration</kwd>
+        <kwd>life-world</kwd>
+        <kwd>media and communicative change</kwd>
+        <kwd>mediatization.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

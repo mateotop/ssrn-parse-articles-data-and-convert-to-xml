@@ -1,0 +1,26 @@
+Что-то пошло не так.xml/2016/#2 (34)/errors/1_lxml_362.xml 
+Год: 2016 
+Выпуск №: #2 (34)
+Статья в выпуске №: 1
+Статья в общем подсчете№: 362 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Article Title']: Editorial
+ ['Year']: 2016
+ ['Author']: 
+ ['DOI']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/c80/0_Editorial.pdf'}
+ ['Topic']: Religion and society in the caucasus: post-soviet dynamics
+ ['KeyWords']: 
+ ['Pages']: -
+ ['Abstract']: N/A
+ ['Section']: Main theme

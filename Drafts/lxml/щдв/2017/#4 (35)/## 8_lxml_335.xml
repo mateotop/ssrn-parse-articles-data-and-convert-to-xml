@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>God’s Self-Identification in Exodus 3.14: «I am THE BEING» or «I am who I am»? Modern Exegesis and Ancient Grammar</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Seleznev</surname>
+            <given-names>Mikhail G.</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article compares two interpretations of God’s self-definition in Exodus 3:14, namely (a) the traditional «ontological» interpretation («I am the One Who really is»), which is represented in the Septuagint and patristic exegesis, as well as in the standard Russian (so-called Synodal) translation, and (b) the «apophatic» interpretation («I am what I am»), which is predominant in modern exegesis and modern translations. Analysis of the Hebrew text suggests that the «apophatic» reading reflects the original understanding of Exodus 3:14 in its pre-Hellenistic context. The Septuagint rendering of the Hebrew text is often regarded as influenced by Greek philosophy, but it may well be explained as a translator’s attempt to deal with the difficult text, namely to retain the parallelism between two halves of verse Exodus 3:14 without violating the norms of the Greek grammar. If this is the case, the LXX translators did not invent the «ontological» understanding of this verse, but rather involuntarily prepared the way for it.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Hebrew Bible</kwd>
+        <kwd>Greek Bible</kwd>
+        <kwd>Septuagint</kwd>
+        <kwd>Masoretic text</kwd>
+        <kwd>biblical translation</kwd>
+        <kwd>theology.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

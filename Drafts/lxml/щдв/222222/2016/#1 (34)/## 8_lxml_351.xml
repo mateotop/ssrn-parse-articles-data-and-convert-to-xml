@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>’The Calendar Question’: Conciliar Discussions Throughout History and Today</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khulap</surname>
+            <given-names>Vladimir</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article examines the role of church councils in reaching a common date for Easter in the first millennium (the Quartodeciman debates, the First Ecumenical Council and after), as well as attempts towards a pan-Orthodox solution of the calendar issue in the 20th century (with a special focus on Russia). The author shows that the calendar and paschal issues were repeatedly placed on the church agenda with different emphases: the desire for a common date for Easter in the first millennium; confessional differences after the Gregorian reform in the 16th century; and the search for a pan-Orthodox response to the changed socio-political conditions of the 20th – 21st centuries. None of these efforts offered a fast, implementable, and commonly acceptable “formula” for solving the issue. The conciliar process has always played an important role in achieving unity and was an important counterweight to attempts at imposing a particular model “from above”. The starting point for the considered discussions was liturgical variety, whose legitimate existence (not just in relation to the calendar and Easter tables) does not divide the Church, but, on the contrary, reveals its inner unity in the variety of liturgical forms. In this regard, the study of the calendar and paschal issues in the broader context of achieving and maintaining Church unity can contribute to the successful solution of other issues on the agenda of the forthcoming Pan-Orthodox Council.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>calendar</kwd>
+        <kwd>calendar reform</kwd>
+        <kwd>Pan-Orthodox Council</kwd>
+        <kwd>council</kwd>
+        <kwd>conciliarity</kwd>
+        <kwd>Orthodoxy</kwd>
+        <kwd>Orthodox Church.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

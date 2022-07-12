@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Catholic Church in the People’s Republic of Poland (1944/45–1989): Forms of Co-Existence with the Regime and the Role of Ideological Opposition</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gryz</surname>
+            <given-names>Ryszard</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article shows a unique place of the Roman Catholic Church in Poland in comparison with other Communist countries of Central-Eastern Europe. During the Second World War, the Catholic Church suffered major personal, material and organisational losses. After the war, the Polish United Workers’ Party conducted an anti-Church and anti-religious policy. Repressions, discrimination, and even murders of priests had been common. However, the communists did not succeed in the secularisation of the country, and the church retained moral authority. Although the teaching of religion in public schools were banned, the religious education was relocated to parishes. The private Catholic University of Lublin also continued its activities. The Catholic press was published despite censorship. The creation of “Solidarity” movement was followed in the 1980s by a boom in church construction. Independent oppositional subculture emerged within the Clubs of Catholic Intellectuals. The development of mass pilgrimages was breaking records at the end of the communist rule. This growing authority was partly due to efforts of cardinal Stefan Wyszyński, the Primate of Poland, and cardinal Karol Wojtyła, the Pope John Paul II. In the critical moment of change in 1989 the Church served as a mediator and the guarantor of political agreements.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>People’s Republic of Poland</kwd>
+        <kwd>John Paul II</kwd>
+        <kwd>Catholic church</kwd>
+        <kwd>anti-religious policy</kwd>
+        <kwd>secularisation.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

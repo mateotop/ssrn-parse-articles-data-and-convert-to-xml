@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Councils as a Manifestation of the Church</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Valliere</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>In this essay the author develops the theme of councils as living ecclesiology, as a manifestation of the reality of the Church. The meaning of councils is not limited to their agenda. The primary source of their charisma is the fact of assembly as such. The conciliar assembly manifests the essential relationships on which the Church is founded. One of the author’s chief concerns is to describe how councils help to shape the dynamics of leadership in the Christian Church. The orientation of conciliar leadership is horizontal and inclusive, not vertical and elitist. Councils are nodes of a network, not components of a pyramid. The history of councils is long and complex. A summary of that history is not the aim of this essay. Certain crucial moments in conciliar history are mentioned because they remain enduring reference points for the Church’s conciliar practice even today. Among the historical moments considered here are the origin of councils, the relation of councils to “catholicism,” the legacy of the Ecumenical Councils, the Great Eastern Schism, the significance of medieval Western conciliar practice for the wider Church, and the renewal of conciliar practice in modern times.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>church</kwd>
+        <kwd>counсils</kwd>
+        <kwd>Catholicism</kwd>
+        <kwd>sobornost</kwd>
+        <kwd>ecclesiology</kwd>
+        <kwd>conciliarism</kwd>
+        <kwd>representation</kwd>
+        <kwd>patristics</kwd>
+        <kwd>canons.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

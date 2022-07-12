@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>There Is Nothing New under the Sun: The Concept of “Gnosis” in Studies of Western Esotericism</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nosachev</surname>
+            <given-names>Pavel</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article analyzes the tradition of using the category of «gnosis» in studies of Western esotericism. The origins of the understanding of «gnosis» as a special form of spiritual experience is related to non-traditional religiosity connected with the works of the members of the Eranos circle (H-C. Puech, G. Quispel, H. Corbin). Because of Corbin, the category of «gnosis» appeared in A. Faivre’s concept of Western esotericism as a form of thought. At the same time, among American researchers gnosis became a central category in the description of Western esotericism. A. Versluis defines gnosis as experience of spiritual initiation into some higher reality, which lies in the foundations of the so-called «Western esoteric tradition». G. A. Magee in his synthetic approach to the study of esotericism brings the esotericism and mysticism to a common basis, which is gnosis, in turn, defined as the «direct perception of the absolute truth». In his latest works W. Hanegraaff, one of the leading scholars in the field, offers the category of «gnosis» as a tool for a «Copernican revolution» in the study of esotericism.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>religious studies</kwd>
+        <kwd>Western esotericism</kwd>
+        <kwd>gnosis</kwd>
+        <kwd>mysticism</kwd>
+        <kwd>Eranos</kwd>
+        <kwd>A. Faivre</kwd>
+        <kwd>W. Hanegraaff.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

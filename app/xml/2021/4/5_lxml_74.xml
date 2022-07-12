@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Idle Freedom and the Problem of Hell</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mishura</surname>
+            <given-names>Aleksandr</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This paper examines the problem of practical and social significance of the belief in free will on the example of Derk Pereboom’s theory of hard incompatibilism. First, I present the general elements of hard incompatibilism focusing on its positive aspects that involve a forwardlooking approach to moral responsibility and a proposal to replace a number of allegedly destructive reactive attitudes with less damaging and more constructive ones. Second, I elaborate and discuss the general logic of moral justification that, as I argue, underlies Pereboom’s approach. I further argue that this logic entails the irrelevance of the belief in free will for moral justification of social practices. Third, I outline the main features of the problem of hell in order to show that hell could not be morally justified in Pereboom’s logic of moral justification. Then I show that the idea of hell provides a unique example where the belief in libertarian free will plays a crucial role in the structure of moral justification. On this basis, I argue that while the belief in free will is mostly irrelevant for the justification of social practices, it might play a crucial role in the justifications of religious practices that involve the belief in hell.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>free will</kwd>
+        <kwd>moral responsibility</kwd>
+        <kwd>Derk Pereboom</kwd>
+        <kwd>hard incompatibilism</kwd>
+        <kwd>problem of hell.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

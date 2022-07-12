@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Religion in School: Current European Landscape</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shakhnovitch</surname>
+            <given-names>Marianna</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article treats the main forms and principles, as well as theoretical and methodological approaches to what is called «Religious Education» in modern Europe, and the basic principles of its implementation in the context of the contemporary policy of «Europeanization» of school education in general. In this connection documents and recommendations of international European organizations are considered. The author points out that the main approaches, principles and content of «religious education» in different countries are determined, first of all, by the legislation in the field of church and state relations and by the organization of the school educational system, cultural and historical factors, and also the political context. On the basis of this criterion, the article identifies four main types of «religious education» in the countries of modern Europe. The author draws attention to various methodological approaches in the teaching of religion, based on exclusivism, inclusivism and pluralism in assessing contemporary religious diversity in Europe. Particular attention is paid to the interpretative approach.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>religious education</kwd>
+        <kwd>Europeanization</kwd>
+        <kwd>teaching about religions</kwd>
+        <kwd>interpretative approach.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

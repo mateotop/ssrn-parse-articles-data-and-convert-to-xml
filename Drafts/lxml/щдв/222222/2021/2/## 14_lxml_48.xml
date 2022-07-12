@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>“How Can It Be: We Had it In the Seventh Century, and Now Not?” An Invented Tradition of Icon-Painting in Post-Secular Armenia</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Antonyan</surname>
+            <given-names>Yulia</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article analyzes the process of post-Soviet invention of a new religious tradition of icon painting in the Armenian Apostolic Church. During the Middle Ages, the Armenian Christianity did not produce a tradition of icon-worshipping. However, since the 17th century, due to various reasons, church painting was developed and became a part of both church interior and everyday religiosity. During the Church's post-Soviet re-institutionalization, such painting became more and more demanded as its purchase and gifting was a significant part of the church economy and of prestigious gift exchange. As a result, along with the wide-known older “ Armenian” style, a new “ icon painting canon” emerged. It was “ reconstructed”, but in fact invented, as an allegedly authentic Armenian style, on the basis of Byzantine icons and the medieval Armenian book miniature, by two icon-painters, father and son Azaryans. Azaryans claimed primacy of the Armenian icon-painting by referring to the evangelical myth of the miraculous image of Christ, allegedly belonging to the Armenian king Abgar. Although the Azaryans’ project remains marginal and feminized, it may be seen as a manifestation of post-secular religiosity, a form of religious practice and even an act of religious conversion.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>icon painting</kwd>
+        <kwd>iconolatry</kwd>
+        <kwd>Armenian Apostolic Church</kwd>
+        <kwd>the invention of tradition</kwd>
+        <kwd>postsecular religiosity.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

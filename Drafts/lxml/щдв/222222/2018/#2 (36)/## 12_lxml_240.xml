@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Anti-Jewish Polemics in the Disputations between Elias, Metropolitan of Nisibis, and the Vizier Abū l-Qāsim al-Maghribī</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Seleznyov</surname>
+            <given-names>Nikolai</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2018</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The present article examines the anti-Jewish polemics in a remarkable Christian Arabic treatise from the eleventh century, the heyday of Arabic culture: the Book of Sessions of Elias of Nisibis (975–1046), metropolitan of the Church of the East. In this treatise, Elias presents his discussions with his Muslim interlocutor, the vizier Abū l-Qāsim al-Maghribī (981–1027). The content of the disputations is transmitted in two substantially different versions: one of them is presented in the Book of Sessions, the other, in Elias’ Epistle to the vizier. The difference between the versions affects the anti-Jewish polemics: while being more personal in Elias’ Epistle to the vizier, it is actually reduced to the quotations from the Qur’ān and the Tafsīr of al-Ṭabarī in the Book of Sessions. The motives for the editorial changes are examined. The role of the Jews in the interreligious relations was one of the subjects of interest for the vizier. However, the removal of the sharpest anti-Jewish passages from the Epistle after the death of the vizier, lets one conclude that the anti-Jewish arguments were not important for his apologetic strategies but were rather used by Elias as a means to get closer to the vizier.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Muslim-Christian heritage</kwd>
+        <kwd>Elias of Nisibis</kwd>
+        <kwd>Abū l-Qāsim al-Maghribī</kwd>
+        <kwd>Book of Sessions</kwd>
+        <kwd>Kitāb al-majālis</kwd>
+        <kwd>Anti-Jewish polemics.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

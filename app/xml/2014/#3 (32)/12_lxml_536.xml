@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Hierarchies of Beings in the Patristic Thought. Gregory of Nyssa and Dionysius the Areopagite</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Biriukov</surname>
+            <given-names>Dmitrij</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2014</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article compares the hierarchy of beings in Gregory and Dionysius. Gregory’s strategy in making the hierarchy follows the order of links in the tree of Porphyry; however Gregory departs from it for the sake of harmonization of links of the hierarchy with the cosmogonical order of natural being described in the Bible. Fundamental dissimilarity in the structure of the hierarchies in the doctrines of Dionysius and Gregory is pointed out. This difference is connected with the shift in the meaning of the philosophical concept of “participation”. Dionysius’s doctrine of the hierarchy of participating beings is analyzed. The connection of the principles with the Neo-platonic tetrad Goodness, Being, Life, Mind is showed. Dionysius’s hierarchy of participating beings is compared    with corresponding Proclus’s hierarchy as well as with the hierarchy in Gregory. It is concluded that Gregory’s hierarchy influenced Dionysius’s one in that regard, in which Gregory’s doctrine of hierarchy is based on the biblical-cosmogonical order of natural being.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Gregogy of Nyssa</kwd>
+        <kwd>Dionisius the Areopagite</kwd>
+        <kwd>hierarchy of natural being</kwd>
+        <kwd>the tree of Porphyry</kwd>
+        <kwd>patristic philosophy</kwd>
+        <kwd>participation</kwd>
+        <kwd>universals</kwd>
+        <kwd>cosmogony</kwd>
+        <kwd>Platonism.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

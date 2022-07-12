@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2014/#2 (32)/errors/14_lxml_523.xml 
+Год: 2014 
+Выпуск №: #2 (32)
+Статья в выпуске №: 14
+Статья в общем подсчете№: 523 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Author']: 
+ ['Article Title']: Merdjanova, I. (2013) Rediscovering the Umma: Muslims in the Balkans between Nationalism and Transnationalism. Oxford: Oxford University Press. — 216 p.
+ ['Topic']: 
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/864/GRC_2-2014_final++.265-270.pdf'}
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Year']: 2014
+ ['Abstract']: N/A

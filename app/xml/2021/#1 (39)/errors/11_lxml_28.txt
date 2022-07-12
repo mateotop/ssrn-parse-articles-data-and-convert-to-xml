@@ -1,0 +1,26 @@
+Что-то пошло не так.xml/2021/#1 (39)/errors/11_lxml_28.xml 
+Год: 2021 
+Выпуск №: #1 (39)
+Статья в выпуске №: 11
+Статья в общем подсчете№: 28 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ 
+
+Что храниться в этой дате
+
+ ['Section']: France and the new politics towards islam
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/172/8_1_app1_1_2021.pdf'}
+ ['Author']: 
+ ['Pages']: 191 - 196
+ ['Year']: 2021
+ ['Topic']: 
+ ['Article Title']: Annex 1. A Bill Strengthening Respect for the Principles of the Republic
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Abstract']: N/A

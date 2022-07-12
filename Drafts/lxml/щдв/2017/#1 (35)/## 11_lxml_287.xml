@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Michael Bourdeaux, the Centre for the Study of Religion and Communism, and the Defense of Religious Liberty, 1959–1975</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>French</surname>
+            <given-names>April L.</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>In 1969, Anglican priest Michael Bourdeaux and his colleagues established the Centre for the Study of Religion and Communism (CSRC) —  later Keston College —  which is often mentioned as playing an important role in drawing attention to religious believers in the Soviet Union. Yet, its role has thus far not been analyzed extensively. This article considers the role played by Bourdeaux and his colleagues on the “religious front” of the Cold War, both before the establishment of the CSRC and in its early years. A historical contextual analysis of  Bourdeaux’s portrayals of internal church conlicts in the USSR in the  1960s indicates that his work occasionally reinforced a dichotomous conception of the Soviet Christian ‘other’ as either suferer or collaborator. The article argues that from 1959 to 1975, an ever increasing westward low of Soviet samizdat from religious believers allowed Bourdeaux and his organization to disseminate largely ccurate information about human rights violations in the Soviet Union to a wide audience of journalists, scholars, and Christian churches in the West.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Cold War</kwd>
+        <kwd>human rights</kwd>
+        <kwd>dissent</kwd>
+        <kwd>religious liberty</kwd>
+        <kwd>Russian Orthodox Church</kwd>
+        <kwd>Evangelical Christians-Baptists</kwd>
+        <kwd>Michael Bourdeaux</kwd>
+        <kwd>Keston College.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

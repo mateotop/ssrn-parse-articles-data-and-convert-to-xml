@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Religious Education in Public Schools: The Most Important Tendencies (With Special Focus on Scandinavia)</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jensen</surname>
+            <given-names>Tim</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>With special attention to Denmark, this article discusses to what degree religious education in public school in the Scandinavian countries, often said to be among the frontrunners as regards non-confessional religious education, reflects and accommodates an increased religious pluralism as well as public and political discourses linking national identity, social cohesion, the good citizen and society with the traditional majority religion as the basis for the (positive) values of the country, the society and the state in question. The article, which also discusses what is called the ‘repoliticization’ and ‘securitization’ of religion (with special regard to Islamophobia, Islam and immigrant Muslim minorities), concludes, inter alia, that parts of the RE curricula do not just include a wider variety of religions but also helps to counter, if not stop, changes that have to do with the new plurality of religions. The analysis indicates that religious education is meant to serve the promotion of social cohesion by way of promoting knowledge and understanding of the new multi-religious world, at the same time as it continues to promote and propagate, for example, Danish culture as Christian, and Christianity as the sine qua non for social cohesion.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>religious education</kwd>
+        <kwd>RE</kwd>
+        <kwd>religious pluralism</kwd>
+        <kwd>re-politicization</kwd>
+        <kwd>securitization of religion</kwd>
+        <kwd>politics of identity</kwd>
+        <kwd>religion as cultural heritage.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

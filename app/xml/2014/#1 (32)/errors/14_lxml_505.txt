@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2014/#1 (32)/errors/14_lxml_505.xml 
+Год: 2014 
+Выпуск №: #1 (32)
+Статья в выпуске №: 14
+Статья в общем подсчете№: 505 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Author']: 
+ ['Topic']: 
+ ['Article Title']: Tserkov’, gosudarstvo i obshchestvo v stranakh vostochnogo khristianstva (tematicheskaia podborka) [Church, State and Society in Countries of Eastern Christianity (Thematical Issues)] (2013), Pro et Contra 3 – 4 (59), 5 (60)
+ ['DOI']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/626/GRC_1-2014_final.294-301.pdf'}
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Year']: 2014
+ ['Abstract']: N/A

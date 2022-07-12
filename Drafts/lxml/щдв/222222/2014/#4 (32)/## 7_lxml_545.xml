@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Roman Catholic Church and the Construction of National Identity in Estonia in the Interwar Period (According to Vatican Archival Materials)</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Komarov</surname>
+            <given-names>Аlexey</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tokareva</surname>
+            <given-names>Evgenia</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2014</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The paper deals with the relations of the Holy See and Estonia in the interwar period. During this period, the Vatican showed interest in the possibility of advancement of Catholicism in the newly formed Estonian state. This activity of the Holy See was met with understanding on the part of the Estonian political elite. The representatives of the latter, interested in encouraging the formation of national identity and assimilation national minorities, primarily Russians, believed that Catholicism would help weaken the impact of both the Orthodox religion and Lutheranism in the country. Catholicism as the worldwide religion has been perceived less dangerous in independent Estonia. It has been assumed that the country would begin the process of forming a unified Estonian national identity with a significant Catholic component. However, these plans were never realized.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Estonia</kwd>
+        <kwd>the Holy See</kwd>
+        <kwd>the Estonian-Vatican relations</kwd>
+        <kwd>Catholicism</kwd>
+        <kwd>Orthodoxy</kwd>
+        <kwd>Lutheranism</kwd>
+        <kwd>Church union</kwd>
+        <kwd>religious minorities</kwd>
+        <kwd>national identity</kwd>
+        <kwd>national and state prestige.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

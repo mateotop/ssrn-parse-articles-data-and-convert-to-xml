@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2014/#1 (32)/errors/15_lxml_506.xml 
+Год: 2014 
+Выпуск №: #1 (32)
+Статья в выпуске №: 15
+Статья в общем подсчете№: 506 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Author']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/33d/GRC_1-2014_final.301-308.pdf'}
+ ['Topic']: 
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Year']: 2014
+ ['Abstract']: N/A
+ ['Article Title']: Gauthier, F. and Martikainen, T. (eds) (2013) Religion in Consumer Society: Brands, Consumers and Markets. Burlington, VT: Ashgate Publishing, Ltd. — 268 p.

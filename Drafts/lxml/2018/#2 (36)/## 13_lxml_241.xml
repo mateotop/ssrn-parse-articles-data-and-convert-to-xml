@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Moscow Parishes in the End of the 19th — Beginning of the 20th Centuries: Share of Believers Participating in Sacraments of Confession and Communion Among Urban Orthodox Citizens</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Titsian</surname>
+            <given-names>Andrey</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2018</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>In this paper the author considers the proportion between Orthodox city people, who did or did not take part in sacraments of confession and communion in Moscow parish churches at the turn of the 19th and 20th centuries. The study is based upon a sample of data about the numbers of parishioners, which was collected from confession and clerical lists stored in the Central State Archive of Moscow. Significant changes over the period between 1897 and 1913 were discovered: the share of those recorded in confession lists decreased from 30% to 15%. While this reduction was conditioned to a large extent by the growth of the population, statistical tests proved significant differences between samples and proved the decrease of the number of parishioners.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>parish</kwd>
+        <kwd>parish church</kwd>
+        <kwd>Moscow Orthodox churches</kwd>
+        <kwd>population of Moscow</kwd>
+        <kwd>confession lists</kwd>
+        <kwd>clerical lists</kwd>
+        <kwd>confession</kwd>
+        <kwd>communion.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

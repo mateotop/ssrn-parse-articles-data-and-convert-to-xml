@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>«Ukrainian» as «Non-Orthodox»: How Greek Catholics Were «Reunited» with the Russian Orthodox Church, 1940s – 1960s</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shlikhta</surname>
+            <given-names>Natalia</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2014</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>Drawing upon archival, published, and oral sources as well as recent studies on the correlation between religion and nationality, the paper argues that formal «reunification» of the Greek Catholics with the Russian Orthodox Church has become a successful «subaltern strategy», ensuring the survival of the Greek Catholic Church through the Soviet period. The article demonstrates that the «Church within the Church», coming into existence as a result of «reunification», was for decades preserving its separate identity within the Russian Orthodox Church. The «Church within the Church» did not oppose directly the regime’s assimilation policy while positioned itself as a Ukrainian and therefore as a non-Orthodox (because a non-Russian) and even as a non-Soviet. Concrete research issues are examined within a wider context of the survival of the Church in the Soviet state.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Russian Orthodox Church</kwd>
+        <kwd>Ukrainian Greek Catholic Church</kwd>
+        <kwd>Church within the Church</kwd>
+        <kwd>national Church</kwd>
+        <kwd>communist (Soviet) regime</kwd>
+        <kwd>reunification</kwd>
+        <kwd>ecclesiastical nationalism.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

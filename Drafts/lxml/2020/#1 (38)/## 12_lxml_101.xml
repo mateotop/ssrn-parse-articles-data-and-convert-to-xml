@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Alvin Plantinga and Thomas Aquinas on the Possibility of Natural Knowledge of God</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gasparov</surname>
+            <given-names>Igor G.</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>Traditionally Aquinas is considered as the leading representative of the position that natural theology is the king road to the knowledge of God by means of human reason alone. Nevertheless, Alvin Plantinga cites him along with John Calvin among the two main predecessors of his famous idea of sensus divinitatis. According to this idea, human reason can have natural knowledge of God via special cognitive mechasnism, which is closer to the functioning of human perception, than to the proofs along the line of traditional theologia naturalis. The goal of the article is to identify whether one can really find in the work of Aquinas anything similar to the sensus divinitatis of Plantinga. And if the answer is positive, then how exactly does this epistemic mechanism perform the function of rational justification of theistic beliefs? As a result, I claim that in Aquinas one can really find something that could be called sensus divinitatis, but its justificatory work functions in a way that is quite different from that of Plantinga, because it involves the natural orientation of the human will to God as the ultimate goal of human life.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>epistemology of religion</kwd>
+        <kwd>ethics of belief</kwd>
+        <kwd>virtue responsibilism</kwd>
+        <kwd>sensus divinitatis</kwd>
+        <kwd>Alvin Plantinga</kwd>
+        <kwd>Thomas Aquinas.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

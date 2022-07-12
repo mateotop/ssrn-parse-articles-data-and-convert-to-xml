@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Child and the Cross: Modification of the Iconography of the Instruments of the Passion of Christ for the Protection of Women in Childbirth in a 15th Century English Scroll (Beinecke MS 410)</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Harman</surname>
+            <given-names>Dilshat</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article examines the image of the Christ Child with Cross from a 15th century scroll, Beinecke MS 410, which is an example of late medieval English “ birth girdles”. The miniatures are accompanied by prayers necessary to obtain indulgences and protection from diseases and dangers, including those at childbirth that in the Middle Ages often led to the death of mother and/or baby. The “birth girdles” are a variation of the so-called Arma Christi (Instruments of the Passion of Christ) manuscripts dating back to the 14th century. They are essential for understanding how piety and magic intersected in the daily lives of medieval people. A study of the texts and iconography of the Beinecke MS 410 suggests that the early owners of the scroll used various types of contact with images — tactile, visual, oral, and audial — to gain divine protection and patronage. The iconography of the Christ Child with Cross miniature and its place in the general visual-textual program of the scroll show that it was added to the manuscript for pregnant women and women in labor, as a special addition to the already existing set of protective images. The child in the miniature is the patron of both women and of the healthy child. An analysis of the iconography of the miniatures and their relationship to the text allows us to understand how religious images acted as amulets for women in labor and pregnant women, helping them cope with fear and uncertainty.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>late medieval iconography</kwd>
+        <kwd>manuscript</kwd>
+        <kwd>scroll</kwd>
+        <kwd>amulet</kwd>
+        <kwd>Passion of Christ</kwd>
+        <kwd>Arma Christi</kwd>
+        <kwd>Christ Child</kwd>
+        <kwd>childbirth</kwd>
+        <kwd>pregnancy.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

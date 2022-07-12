@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  selenium:
+    image: selenium/standalone-chrome
+    mem_limit: 1536m
+    ports:
+    - 4444:4444
+    restart: always
+
+  app:
+    build:
+      context: .
+    volumes:
+    - ./app:/app
+    command: sh -c "python3 grc.py"
+    depends_on:
+      - selenium
+    

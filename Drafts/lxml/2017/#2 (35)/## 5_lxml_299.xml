@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Blasphemy on the Ships of the Maltese Corsairs (According to Documents of the Inquisition at the End of the Seventeenth Century)</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gauci</surname>
+            <given-names>Lian</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Frumin</surname>
+            <given-names>Mitia</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>In the eighteenth century Malta was a hub of maritime activity and many powers wanted to gain influence over the island state. Its fortiications, dockyards and facilities were strategically placed in the center of the Mediterranean. The island was home to the knights of St. John, upheld on the island by a cosmopolitan array of merchants, mercenaries, inquisitors and corsairs. The latter two categories are the focus of this study. The inquisitors in Malta represented the Holy See. They were the personal representatives of His Holiness on Malta. They guided the Catholic lock against the Reformation. By the eighteenth century this work had turned to other more mundane efforts, such as protecting the people from witchcraft, heresy, sodomy and blasphemy, among other things. In the two cases brought forward in our paper we analyze the trials of two corsairs. One was a simple cabin boy while the other was a famous corsair captain, who in his prime had sent shockwaves around the Mediterranean. He had been a slave of the Ottoman sultan and through sheer bravery and determination led a mutiny aboard the lagship of the Ottoman navy. He captured the ship, sailed to Malta, and started a career as a corsair that would see him one of the most feared men of the middle sea.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>corsairs</kwd>
+        <kwd>Malta</kwd>
+        <kwd>Inquisition</kwd>
+        <kwd>blasphemy</kwd>
+        <kwd>Pietro Zelalich.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

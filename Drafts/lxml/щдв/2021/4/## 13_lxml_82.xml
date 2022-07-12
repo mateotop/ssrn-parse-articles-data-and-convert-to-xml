@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Challenging Social Capital Theory: What Is the Correlation Between Religious Involvement and Civic / Political Engagement? A Case for Chilean Evangelicals</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fediakova</surname>
+            <given-names>Evguenia</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Espinoza</surname>
+            <given-names>Vicente</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fernández</surname>
+            <given-names>Victor</given-names>
+          </name>
+          <email />
+          <role content-type="3" />
+          <xref ref-type="aff" rid="aff3" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff3">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article analyzes the role of Chilean Evangelical and Pentecostal churches in the building social capital, considering its form, and its effects on the socio-political development of civil society and the quality of democratic life. The diversity of the Evangelical field in Chile demands a thorough review of Evangelicals’ interaction with politics and society. Our results show that Evangelicals and Pentecostals, compared to the Catholic population, have higher involvement in voluntary associations and lower interest in politics. Evangelicals expect their religious authorities to play an active role in the political field while overall, en masse, they are less involved in politics and less concerned in defining their political identity than their Catholic compatriots. This finding, to some extent, goes against the theory of social capital, which assumes that involvement in religious activities results in increased civic participation in general. Data for the study come from a national sample of Evangelicals (n=754).</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Evangelicals</kwd>
+        <kwd>Pentecostals</kwd>
+        <kwd>social capital</kwd>
+        <kwd>civic engagement</kwd>
+        <kwd>religion</kwd>
+        <kwd>Chile.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

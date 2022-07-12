@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Greek Catholic Identity in Western Ukraine During the Process of Legalization, 1980s — 1990s</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bublyk</surname>
+            <given-names>Taras</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2014</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article deals with the revival of the Ukrainian Greek Catholic Church in the 1980-1990s. The Church officially ceased to exist in 1946 after the «reunification» with the Russian Orthodox Church. Nevertheless, the part of the Greek Catholic clergy and the faithful did not recognize this act and moved to the underground. The process of legalization and revival was accompanied by the growing movement for the Ukrainian national independence. At the same time, the Church continued to remain faithful to the Apostolic See, constantly emphasizing their belonging to the Catholic Church. The legalization of the Church involved not only the relationships with the states, but also with other churches — the Russian Orthodox Church, the Ukrainian Autocephalous Orthodox Church, and the Roman Catholic Church. The heated inter-religious conflict was deeply entangled with the issue of national and ecclesiastic identity.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Ukraine</kwd>
+        <kwd>Greek Catholic Church</kwd>
+        <kwd>Soviet Union</kwd>
+        <kwd>religious identity</kwd>
+        <kwd>national identity.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2013/#3 (31)/errors/14_lxml_608.xml 
+Год: 2013 
+Выпуск №: #3 (31)
+Статья в выпуске №: 14
+Статья в общем подсчете№: 608 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Author']: 
+ ['Topic']: 
+ ['Year']: 2013
+ ['DOI']: 
+ ['Article Title']: Pax Islamica — The World of Islam. (2012) № 1 – 2 (8-9). Moscow: Izdatel’skii dom Mardzhani (in Russian)
+ ['KeyWords']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/7ed/GRC_3-2013_final.Pax Islamica.pdf'}
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Abstract']: N/A

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>New Israel and Red October: A Movement of Russian Religious Dissent at the Turn of Epochs</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Petrov</surname>
+            <given-names>Sergey</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2019</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article is devoted to the analysis of the circumstances under which the New Israel group of Russian Spiritual Christians repatriated from Uruguay to Soviet Russia in the 1920s. New Israelites were the largest of all overseas “sectarian” groups that responded to the Soviet authorities’ call to return to the country and take part in creating collective agricultural enterprises. The co‑operative enterprise established by that religious community on the territory of the present day Rostov Region endured for a few years. Shortly thereafter, due to changes in government policies, it was transformed into a sovkhoz and lost its economic and ideological autonomy. The article demonstrates, using private correspondence between the movement’s leaders as evidence, that contrary to popular opinion, political and ideological considerations did not play a significant role in their decision to re‑emigrate. Key factors behind the re‑emigration to Soviet Russia were the catastrophic financial situation in which the New Israel community in Uruguay found itself, as well as the threat of criminal prosecution looming over its leaders. The leftist and communist language frequently employed by the New Israel leadership was mainly a rhetoric tool used to solve practical issues in the short run.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>religious migrations</kwd>
+        <kwd>Russian revolution</kwd>
+        <kwd>Spiritual Christians</kwd>
+        <kwd>New Israel</kwd>
+        <kwd>Vasilii Lubkov</kwd>
+        <kwd>San Javier</kwd>
+        <kwd>“sectarian” collective enterprises.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2016/#2 (34)/errors/19_lxml_380.xml 
+Год: 2016 
+Выпуск №: #2 (34)
+Статья в выпуске №: 19
+Статья в общем подсчете№: 380 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Year']: 2016
+ ['Author']: 
+ ['Topic']: 
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Article Title']: Gutierrez, Cathy (ed.) (2015) Handbook of Spiritualism and Channeling. Leiden, Boston: Brill. — 512 p.
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Abstract']: N/A
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/ef9/18_Review2_2_2016_GRC.pdf'}

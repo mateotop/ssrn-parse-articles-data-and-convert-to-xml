@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2015/#3 (33)/errors/19_lxml_468.xml 
+Год: 2015 
+Выпуск №: #3 (33)
+Статья в выпуске №: 19
+Статья в общем подсчете№: 468 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Year']: 2015
+ ['Author']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/78d/GRC_3-2015_final.426-432.pdf'}
+ ['Topic']: 
+ ['DOI']: 
+ ['Article Title']: Taliaferro, Charles (2014) Evidence and Faith: Philosophy and Religion since the Seventeenth Century / Translated from English by S.S. Pimenova, T.V. Malevich; edited by A.R. Fokin. Moscow: Iazyki slavianskoi kul’tury: Znak, 2014. — 576 p. (In Russian)
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Abstract']: N/A

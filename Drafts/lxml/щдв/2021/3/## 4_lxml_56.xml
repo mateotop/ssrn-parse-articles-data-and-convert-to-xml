@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>“The Father Garnet’s Straw”: Relics of the Saints in the Religious Culture of English Catholics in the 17th Century</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Seregina</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>For the persecuted English Catholic community, the preservation of the relics of pre-Reformation saints, as well as acquisition of the relics of new martyrs, required cooperation between clergy and Catholic laity. At the same time, the English Catholic hierarchy had no coercive power in the post-Reformation period: unlike officially Catholic countries, English Catholic clergy could not control the cults of the new martyrs. As a result, a number of narratives was produced to describe relics and the “correct” forms of the veneration of saints, but these texts rather reflect a desirable, than the real situation. The articleis focused on the early 17th-century texts linked to the so-called “Father Garnet’s straw” (1606): a relic acquired at the execution of the Jesuit Henry Garnet, who was sentenced to death for his presumed involvement in the Gunpowder plot. Immediately after the execution, stories emerged about a straw allegedly imbued with the martyr’s blood. An image of Father Garnet — his face under the crown of martyrdom — was discovered on the straw, and it was proclaimed to have thaumaturgical powers. The analysis of pamphlets, the examination of persons involved, and the texts produced by the Jesuits reveal discrepancies between the ideal model of interaction between believers and the relics, which was promoted by the Catholic clergy and implied a minimum of physical contact, and common manipulative practices used by lay Catholics.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>English Catholics</kwd>
+        <kwd>Jesuits</kwd>
+        <kwd>Henry Garnet</kwd>
+        <kwd>relics of the saints</kwd>
+        <kwd>manipulative practices</kwd>
+        <kwd>healing</kwd>
+        <kwd>models of piety.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2015/#2 (33)/errors/16_lxml_446.xml 
+Год: 2015 
+Выпуск №: #2 (33)
+Статья в выпуске №: 16
+Статья в общем подсчете№: 446 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Year']: 2015
+ ['Author']: 
+ ['Topic']: 
+ ['DOI']: 
+ ['Article Title']: Noble, Samuel and Treiger, Alexander (2014) The Orthodox Church in the Arab World, 700–1700: An Anthology of Sources / Foreword by Metropolitan Ephrem (Kyriakos). DeKalb, IL.: Northern Illinois University Press. – 355 p.
+ ['Abstract']: N/A
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/c13/GRC_2-2015_Готово.305-309.pdf'}

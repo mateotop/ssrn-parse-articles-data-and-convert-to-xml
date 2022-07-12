@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Eunuchs of the Kingdom. Interpretation of Matthew 19:12 in the Early Christian Movement</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Volchkov</surname>
+            <given-names>Alexey</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>Many biblical texts mention eunuchs (εὐνοῦχος, סיר סִָ ). In the Hebrew Bible the term sārîs appears mainly as an element of the administrative apparatus. In the New Testament the image of the eunuch becomes the subject of theological reflection. In the Gospel of Matthew, Christ says that there are “Eunuchs who have made themselves Eunuchs for the kingdom of heaven” (Matthew 19:12). The article examines this verse, its Sitz im Leben, and traces its influence on both Christian theology and the religious practice of the followers of Christ. For a long time, the eunuchs in Matthew 19:12 have been seen by commentators as a model of chastity, an ideal member of the Christian Church, a prototype of a monk. However, the analysis of ancient texts shows how morally ambiguous the image of the eunuch was. In the ancient Mediterranean, the eunuch was the epitome of transgression of all norms related to family and sexual life. Through this image, everything that seemed eternal and reasonable was called into question. Hence, the image of eunuch given as a positive ideal denied the triumphant heterosexual binary model in which such things as family, gender, and gender identity were inscribed.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>eunuch</kwd>
+        <kwd>castratus</kwd>
+        <kwd>asceticism</kwd>
+        <kwd>monasticism</kwd>
+        <kwd>early Christianity</kwd>
+        <kwd>Bible</kwd>
+        <kwd>Gospel of Matthew</kwd>
+        <kwd>homosexuality</kwd>
+        <kwd>gender</kwd>
+        <kwd>queer theology.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

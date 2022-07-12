@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2013/#1 (31)/errors/18_lxml_576.xml 
+Год: 2013 
+Выпуск №: #1 (31)
+Статья в выпуске №: 18
+Статья в общем подсчете№: 576 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/ef5/18_Рецензия_Кырлежев2.pdf'}
+ ['Author']: 
+ ['Topic']: 
+ ['Year']: 2013
+ ['DOI']: 
+ ['Abstract']: N/A
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Article Title']: Kostyuk K. History of the Social and Political Thought in the Russian Orthodox Church. Saint-Petersburg: Aleteia, 2013

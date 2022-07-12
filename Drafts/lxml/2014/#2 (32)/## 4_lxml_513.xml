@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Traditional Folk Culture of the Bosnian Muslims in the Twenty-First Century</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Plotnikova</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2014</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article is devoted to the specific folk tradition of the Slavic Muslims of Bosnia («bosnjak’s»), which is only partially exposed to the transformative influence of particular religious affiliations. The ethnolinguistic fieldwork revealed that up to now the Muslims of Central Bosnia (Belashnica, Treskavitza, the region of Visoko) preserve the most archaic cultural texts, typical for the Southern Slavs in many local variants, regardless of their confessional belonging. The article also describes some forms of religious syncretism and interweaving  between various archaic ritual and folklore motives in the folk tradition, which have resulted from the influence of both Christianity and Islam.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>ethnolinguistics</kwd>
+        <kwd>cultural tradition</kwd>
+        <kwd>religious syncretism</kwd>
+        <kwd>archaic contexts</kwd>
+        <kwd>folklore motives</kwd>
+        <kwd>family rites</kwd>
+        <kwd>the Day of St. George</kwd>
+        <kwd>folk mythology.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2014/#4 (32)/errors/18_lxml_556.xml 
+Год: 2014 
+Выпуск №: #4 (32)
+Статья в выпуске №: 18
+Статья в общем подсчете№: 556 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Author']: 
+ ['Topic']: 
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Section']: Book reviews
+ ['Article Title']: Rimestad, S. (2012) The Challenges of Modernity to the Orthodox Church in Estonia and Latvia (1917–1940). Frankfurt am Main: Peter Lang, 2012. — 334 p.
+ ['Pages']: -
+ ['Year']: 2014
+ ['Abstract']: N/A
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/090/GRC_4-2014_final+.345-350.pdf'}

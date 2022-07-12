@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Punishment of Saints as Pious Blasphemy in the Middle Ages and Early Modern Period</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Maizuls</surname>
+            <given-names>Mikhail</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2017</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This article is devoted to the wide set of practices of coercion and punishment of saints via their images that are well documented in the Catholic world from the early Middle Ages to the Early Modern period. According to the basic historiographical narrative, the humiliation of saints officially practiced by medieval monks and canons was prohibited by the Second Council of Lyon in 1274, leading to the gradual marginalization of this devotional «instrument.» Nevertheless, exempla that presented the coercion of saints as a legitimate (although radical) method of communication with supernatural powers continued to appear in collections for preachers even in the Counter‑Reformation period. At the same time, by the late Middle Ages and the Early Modern period, these practices had been gradually reinterpreted as superstition and/or blasphemy (sacrilege). This transformation is due to two interdependent agendas: the growing delegitimization and even demonization of popular religion by Church intellectuals and prelates, and the Protestant iconoclasm of the 16th and 17th centuries, which made the ecclesiastical authorities, who were anxious to protect the core of the traditional faith, much more sensitive to any form of irreverence or deviance toward statues or other images of saints.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Cult of images</kwd>
+        <kwd>blasphemy</kwd>
+        <kwd>sacrilege</kwd>
+        <kwd>iconoclasm</kwd>
+        <kwd>hagiography</kwd>
+        <kwd>exempla</kwd>
+        <kwd>canonical law</kwd>
+        <kwd>Second Council of Lyon</kwd>
+        <kwd>Council of Trent.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

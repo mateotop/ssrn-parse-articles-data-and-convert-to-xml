@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Theology in Context: The Authenticity of Particular as a Challenge to Christianity’s Universal Truth. Introduction</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stepanova</surname>
+            <given-names>Elena</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The recognition of the contextual nature of Christian theology is a relatively new phenomenon that has challenged the understanding of Christianity as the universal, eternal and unchanging truth equally authoritative for all times and peoples. The recent shift in understanding of the nature of theology could be interpreted as a recognition of its ability to incorporate specific socio-cultural contexts in which it arises, as well as human experience with all its achievements, complications and uncertainties. In the article, the contextuality of theology is considered, firstly, as its ability to transform the universal truth of Christianity in conformity with particular social circumstances; secondly, as a theological response to specific social, political, economic, cultural, environmental, etc. problems and situations. The author explains the emergence of contextual theology; analyzes the missiological approach towards contextuality; the interdependence of theology and socio-political processes; presents the types of contextual theology: liberation, feminist, black, queer and other theologies. Controversies associated with contextual nature of theology are highlighted, including excessive circumstantiation and absolutization of otherhood, which complicates the dialogue between theologies that have arisen in different contexts. The conclusion which is drawn about the relationship between universality and particularity in contextual theology is that there are doctrinal claims shared by all Christians that transcend any specific socio-cultural context, and yet these claims negotiate dialectically with each context. Thus, universality of the Christian message arises from its ability to respond to any past, present or future specific human situation.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>context</kwd>
+        <kwd>experience</kwd>
+        <kwd>eurocentrism</kwd>
+        <kwd>orthopraxis</kwd>
+        <kwd>liberation theologies</kwd>
+        <kwd>universality</kwd>
+        <kwd>particularity.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

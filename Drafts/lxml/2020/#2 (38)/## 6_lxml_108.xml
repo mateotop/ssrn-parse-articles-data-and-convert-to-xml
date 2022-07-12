@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mediation of Religious Meaning and Emerging Religious Sensibilities</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hoover</surname>
+            <given-names>Stewart</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2020</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>This text presents theoretical premises of how to study the reception of media content by the religious audience. The author looks first at how media and mass communication scholarship developed along with the emergence of the media sphere as a technological and social phenomenon. One of the results of these developments is that, with‑ in the multiplicity of sources available, specifically religious channels and services, and channels and services that can accommodate religious and spiritual interests and uses, are increasingly possible and available. Secondly, the nature of contemporary religion is undergoing significant change as well. Following the works of W.C. Roof and R. Wuthnow the author considers a religiosity or spirituality of “seeking” as a major dimension of the contemporary religious landscape. The next step of the analysis is considering how various categories of seekers might be positioned vis‑à‑vis religious history, religious practice, religious and social experience, orientation toward religious tradition and authority, and religion/spirituality in media culture. The author argues that the evolving religious/symbolic marketplace would be a place where new, more focused mediated symbolic and practical material would be made accessible to interested receivers.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>media as a symbolic inventory</kwd>
+        <kwd>religious seeking</kwd>
+        <kwd>media reception</kwd>
+        <kwd>mediation of religion.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

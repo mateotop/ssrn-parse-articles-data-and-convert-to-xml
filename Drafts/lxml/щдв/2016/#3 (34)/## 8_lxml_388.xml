@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Managing Sensational Forms: Optimization, Maximization and Efficacy. The Great Fair in Kalwaria Pacławska</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Baraniecka-Olszewska</surname>
+            <given-names>Kamila</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2016</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article describes pilgrimage to Kalwaria Pacławska — a Roman Catholic sanctuary in South-Eastern Poland on a Day of Assumption of Virgin Mary. The main emphasis is made upon the sensual relationship of the believers with the sacred and special forms mediating this relationship. The author examines how pilgrimage is organized by special lay guides possessing authority to plan the entire event and lead the groups of pilgrims. Their efforts are focused upon increasing the effect of sensual forms of the sacred. This goal is achieved through optimization of ritual, when some elements are omitted to make space for others. Consequently, not all religious gestures are performed with the same reverence. Such creative changes in the ritual are, however, legitimized within the habitus that rules religious attitudes of the faithful.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Roman Catholicism</kwd>
+        <kwd>religious habitus</kwd>
+        <kwd>sensational forms</kwd>
+        <kwd>Kalwaria Pacławska</kwd>
+        <kwd>pilgrimage.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

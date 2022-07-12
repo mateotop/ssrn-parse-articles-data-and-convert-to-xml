@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">GRC-0000-0000-000</article-id>
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter ???</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Do Religious Senses and Ideas Really Exist? Critique of the Current Psychology of Religion</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mikheev</surname>
+            <given-names>Vladimir</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id>GRC-0000-0000-000</elocation-id>
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2018</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>Since the 1990s, there has been a huge discussion in religious studies on the uses of the terms «secular» and «religious». In this article we use the methodology of critical study of religion within the psychology of religion. There are two main strategies to construct an object of research in this field: 1) studying of how religious senses occur (neurotheology, transpersonal psychology) and 2) studying of how religious representations emerge (cognitive religious studies). This paper provides an overview of these two paradigms through the optic of religious/secular dichotomy. Scholars who are trying to understand the nature of religious phenomena ignore significant amount of data of the same origin that is labeled as «secular». The author then suggests studying such representations or senses beyond the religious/ secular dichotomy.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>cognitive religious studies</kwd>
+        <kwd>ideological critique of religious studies</kwd>
+        <kwd>intuitive representations</kwd>
+        <kwd>neurotheology</kwd>
+        <kwd>protected values</kwd>
+        <kwd>religious representation</kwd>
+        <kwd>religious experience.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

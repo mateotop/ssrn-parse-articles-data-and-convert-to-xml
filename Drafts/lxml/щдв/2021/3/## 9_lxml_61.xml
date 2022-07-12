@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id jjournal-id-type="publisher">GRC</journal-id>
+      <journal-title-group>
+        <journal-title>Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom </journal-title>
+        <abbrev-journal-title abbrev-type="nlm-ta" />
+      </journal-title-group>
+      <issn pub-type="ppub" />
+      <issn pub-type="epub" />
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript" />
+      <article-categories>
+        <subj-group subj-group-type="article_type">
+          <subject>Research Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="subject_areas">
+          <subject> </subject>
+      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Imprints on Glass: The Contact Relics in Post-Soviet Countries</article-title>
+        <alt-title alt-title-type="running" />
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Antonov</surname>
+            <given-names>Dmitriy</given-names>
+          </name>
+          <email />
+          <role content-type="1" />
+          <xref ref-type="aff" rid="aff1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Doronin</surname>
+            <given-names>Dmitriy</given-names>
+          </name>
+          <email />
+          <role content-type="2" />
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+        <aff id="aff1">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+        </aff>
+        <aff id="aff2">
+          <institution />
+          <addr-line content-type="addrline1" />
+          <addr-line content-type="city" />
+          <addr-line content-type="state" />
+          <addr-line content-type="zipcode" />
+          <addr-line content-type="country" />
+      </aff>
+      </contrib-group>
+      <pub-date pub-type="epub" />
+      <pub-date pub-type="ppub" />
+      <elocation-id />
+      <history>
+        <date data-type="received">
+          <day />
+          <month />
+          <year>2021</year>
+      </date>
+      </history>
+      <permissions>
+        <copyright-statement />
+        <copyright-year />
+      </permissions>
+      <abstract>
+        <b>The article is focused on a popular type of contact relics, found in Orthodox churches in the post-Soviet countries — the imprints of icons that appear on the glasses of the icon cases. These relics have given rise to many explanations and provoked various practices. Starting with the first widely publicized case — the imprint of the Kiev icon of Mother of God “ Prizri na smirenie” that was found in 1993, examined and officially proclaimed a miracle by the Ukranian Orthodox Church — such images began to be found and described in many churches in Ukraine, Russia, Belarus, the Baltic States, and Israel. The idea that these imprints are the acheiropoietos, “not-made-by-hands” images, brings the tradition in a broader context of local veneration of images found on various natural or urban objects (trees, walls, window glass, etc.). The imprints on icon-cases are most important and widespread objects of that kind, often venerated officially by clerics in churches and monasteries. These images are closely related to icons, and their appearance is often interpreted as the result of the influence of the invisible virtue that goes from an icon and reflects on the glass. The article discusses various assessments of this phenomenon and ways of venerating such imprints and their “mother” icons.</b>
+      </abstract>
+      <kwd-group>
+        <kwd>Christianity</kwd>
+        <kwd>Orthodoxy</kwd>
+        <kwd>contact relics</kwd>
+        <kwd>brandea</kwd>
+        <kwd>acheiropoietos</kwd>
+        <kwd>“not-made-by-hands” images</kwd>
+        <kwd>imprints of glass.</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="0" />
+        <page-count count="0" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

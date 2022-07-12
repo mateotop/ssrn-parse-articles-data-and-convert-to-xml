@@ -1,0 +1,27 @@
+Что-то пошло не так.xml/2014/#2 (32)/errors/15_lxml_524.xml 
+Год: 2014 
+Выпуск №: #2 (32)
+Статья в выпуске №: 15
+Статья в общем подсчете№: 524 
+
+
+ Не найдено (или подозрительно короткое):['Author']
+ Не найдено (или подозрительно короткое):['Links']
+ Не найдено (или подозрительно короткое):['KeyWords']
+ Не найдено (или подозрительно короткое):['DOI']
+ Не найдено (или подозрительно короткое):['Topic']
+ Не найдено (или подозрительно короткое):['Pages']
+ 
+
+Что храниться в этой дате
+
+ ['Article Title']: Furat, Ayşe Zişan and Er, Hamit (eds) (2012) Balkans and Islam: Encounter, Transformation, Discontinuity, Continuity. Cambridge Scholars Publishing. — 235 p.
+ ['Author']: 
+ ['Topic']: 
+ ['DOI']: 
+ ['KeyWords']: 
+ ['Links']: {'Ru': 'https://religion.ranepa.ru/upload/iblock/bb1/GRC_2-2014_final++.270-276.pdf'}
+ ['Section']: Book reviews
+ ['Pages']: -
+ ['Year']: 2014
+ ['Abstract']: N/A
