@@ -1,3 +1,7 @@
+<div class="row"><img src="https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg" alt="drawing" style="width:200px;"/>
+         <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/1/16/Государство%2C_религия%2C_Церковь_в_России_и_за_рубежом.png/411px-Государство%2C_религия%2C_Церковь_в_России_и_за_рубежом.png" alt="drawing" style="width:200px;"/></div>
+
+
 # ssrn-parse-articles-data-and-convert-to-xml
 University summer assignment. The university journal wanted to upload articles to SSRN.com . This is a Python project designed to do some part of this task.
 
