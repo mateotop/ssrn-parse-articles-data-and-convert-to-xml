@@ -16,3 +16,7 @@ SSRN is an open access research platform used to share early-stage research, evo
 ___
 (GRC journal) / State, Religion and Church in Russia and Worldwide / Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom is an academic peer-reviewed quarterly devoted to the multidisciplinary study of religion. It is published under the aegis of the Russian Presidential Academy of National Economy and Public Administration, Moscow, Russia. It appears in the Russian language with English summaries.
 The journal was established back in 1968, but since 2012, under an entirely new Editorial team, it underwent a substantial transformation in terms of thematic scope, standards of peer-reviewing, design, and distribution. The journal has applied to be included into major international citation indexes and databases.
+___
+<h1>Instuction</h1>
+This code has russian language instruction on the notion page 
+<br>https://humane-artichoke-128.notion.site/XML-16eb5ae0b4e048a4b8f44ce108d95b59
