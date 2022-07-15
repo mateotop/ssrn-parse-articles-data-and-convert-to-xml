@@ -61,6 +61,8 @@ def get_article_info(article_html_part) -> dict:
     # Articles Title
     try:
         article_title = soup.find('div', 'name').text.strip()
+        article_title = ''.join([letter for letter in article_title if letter.isprintable()])
+        #  Вроде бы letter.isprintable() должен решать проблему с неперонсимыми символами, которые ломаеют xml
         # Добавить здесь преоброзование строки unicode (Add here trnasformer / encoder from uncode to assii)
         # Но xml не ломается из-за этого и unicode отоброжает корректно. Поэтому пока не вставил
     except:
@@ -120,11 +122,12 @@ def get_article_info(article_html_part) -> dict:
             'br').find_next('br').next_sibling]).strip()
         # Тэги на некоторые старницых криво стоят, и чтобы аннотация парсилась целиком нужно
         if abstract_text[-1] != '.':
-            abstract_text = abstract_text + ''.join([i for i in soup.find(
-                'b', text="Abstract").find_next('br').find_next('br').find_next('br').next_sibling]).strip()
+            abstract_text = abstract_text + ''.join([i for i in soup.find('b', text="Abstract").find_next('br').find_next('br').find_next('br').next_sibling if i.isprintable()]).strip()
 
         if abstract_text == '-':
             abstract_text = 'N/A'
+
+        # Должно помочь с непереносимыми символами i.isprintable():
     except:
         abstract_text = 'N/A'
 
