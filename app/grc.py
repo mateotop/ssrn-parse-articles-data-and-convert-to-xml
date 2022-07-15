@@ -480,6 +480,7 @@ def cleanning_and_save_xml_file(article_info_dict_2: dict,
     filename_1 = f'xml/{year_xmll}/{num_of_issue}/'
     # name_article_xml = ''.join(re.findall('[A-Za-z0-9]+ \s+', article_info_dict_2['Article Title']))[:30]
     name_article_xml = ''.join([letter for letter in article_info_dict_2['Article Title'] if letter.isalnum() or letter == ' '])[:45]
+    name_article_xml = name_article_xml.replace(' ', '_')
 
     if len(article_info_dict_2['Author']) <= 0 and len(article_info_dict_2['Abstract']) <= 3:
 
