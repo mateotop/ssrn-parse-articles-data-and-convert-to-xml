@@ -265,7 +265,7 @@ def generate_taplate_for_xml_file(article_info_dict_1: dict) -> None:
     subj_group_subject_areas = ET.SubElement(
         article_categories, 'subj-group', subj_group_type="subject_areas")  # [1]
     # ['area1', 'area2'] # для теста. сюда вставить данные по subject areas если будет
-    subject_areas = ' '
+    subject_areas = ''
     for word in subject_areas:
         subject = ET.SubElement(subj_group_subject_areas, 'subject')
         subject.text = word  # Вставить всюда subject_areas
@@ -566,7 +566,7 @@ issues_links = {issue.text: base_url + issue['href'] for issue in bigSoup.find_a
 
 
 
-print(f"Привет\n Эта программа помогает собирать и преоброзовывать данные с сайта журнала: Госудраство Религия Церьковь")
+print(f"Привет\n Эта программа помогает собирать и преоброзовывать данные с сайта журнала: Госудраство Религия Церковь")
 print('Программа создана чтобы собрать и преоброзовать все статьи за все года и все выпуски \n По времени займет примерно 3-5 минут. Возможно быстрее')
 print('Во время работы программы, здесь могут появляться слова None. \nЕсли такое случитсья не переживайте, все хорошго, так и должно быть')
 
