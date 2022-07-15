@@ -233,9 +233,8 @@ def generate_taplate_for_xml_file(article_info_dict_1: dict) -> None:
     front = ET.SubElement(root, 'front')
 
     journal_meta = ET.SubElement(front, 'journal-meta')
-    journal_id = ET.SubElement(
-        journal_meta, 'journal-id', journal_id_type="publisher")  # [1]
-    journal_id.text = 'GRC'  # Здесь пишем название издательства
+    journal_id = ET.SubElement(journal_meta, 'journal-id', journal_id_type="publisher")  # [1]
+    journal_id.text = 'State, Religion and Church in Russia and Worldwide'  # Здесь пишем название издательства
 
     journal_title_group = ET.SubElement(journal_meta, 'journal-title-group')
     journal_title = ET.SubElement(journal_title_group, 'journal-title')
