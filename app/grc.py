@@ -242,7 +242,7 @@ def generate_taplate_for_xml_file(article_info_dict_1: dict) -> None:
     journal_title_group = ET.SubElement(journal_meta, 'journal-title-group')
     journal_title = ET.SubElement(journal_title_group, 'journal-title')
     # Здесь пишем название Журнала.
-    journal_title.text = "Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom "
+    journal_title.text = "Gosudarstvo, religiia, tserkov' v Rossii i za rubezhom"
 
     # [1] | Что-то особенное нужно вставить в abbrev-type?
     abbrev_journal_title = ET.SubElement(
